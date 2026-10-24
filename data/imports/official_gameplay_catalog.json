@@ -1,0 +1,4195 @@
+{
+  "source": "Garena Liên Quân Mobile - Học viện/Gameplay",
+  "generated_at": "2026-10-19T07:14:12.437406+00:00",
+  "scope": "Danh mục chính thức; không phải build hoặc khuyến nghị tướng chính thức.",
+  "sources": {
+    "equipment": {
+      "url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0f1c950a9d80c35aa2f14bb89eb4910367d9726fdaef4b4d03e186ad281c9283"
+    },
+    "rune": {
+      "url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "09cf66f0a88436257210576b71179f2eef17082b3126961d22b3012db2299aca"
+    },
+    "talent": {
+      "url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "28c911c54557888e50fbf3e7579e95f737b4fd3537fd6da7059223ddef1f065f"
+    },
+    "enchantment": {
+      "url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "156be2be94a2b7372b2002f4cafaae926d4da61e1d57383c510120c9ddd7e817"
+    }
+  },
+  "equipment": [
+    {
+      "external_key": "chuy-bang-suong",
+      "slug": "chuy-bang-suong",
+      "name": "Chùy băng sương",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2025/07/Chuy-bang-suong.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2060,
+      "description": "+60 Công vật lý, +30% Tốc đánh, +900 Máu tối đa\nNội tại duy nhất – Đông Băng: Đánh thường và tung chiêu làm chậm 5% – 10% tốc chạy của mục tiêu trong 1.5 giây, cộng dồn tối đa 2 lần.\nNội tại duy nhất – Hàn Khí: Đánh thường và tung chiêu gây thêm 140 – 280 (+45% công vật lý thêm) sát thương vật lý. Thời gian hồi chiêu: 3 giây.",
+      "attributes": {
+        "physical_attack": 60.0,
+        "max_health": 900.0,
+        "attack_speed": 30.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ad50e289a50b37b8332180ac58e4b43ccecbae36f6a8c951a196cc2fb52b2efa"
+    },
+    {
+      "external_key": "huyet-anh-ao",
+      "slug": "huyet-anh-ao",
+      "name": "Huyết ảnh đao",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2025/07/Huyet-dao.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 830,
+      "description": "Thuộc tính: +30 Công vật lý, +10% Hút máu\nNội tại – Huyết yến: Khi bản thân thấp hơn 30% máu, trong 5 giây tích lũy hồi 400 – 610 máu tối đa. Thời gian hồi chiêu: 20 giây.",
+      "attributes": {
+        "physical_attack": 30.0,
+        "lifesteal": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "a5f1fedeebe92f3b77a49f6782031dba508a27ab8876f03b9eae86b15e8194e2"
+    },
+    {
+      "external_key": "the-uoc-carano",
+      "slug": "the-uoc-carano",
+      "name": "Thệ ước Carano",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2025/07/The-uoc-Carano.jpg",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2050,
+      "description": "Thuộc tính: +180 Công phép, +12% Hút máu phép, +5% Tốc chạy\nBảo hộ khẩn cấp: Khi máu dưới 30%, lập tức hóa giải khống chế đồng thời nhận lá chắn chặn 510 – 1000 (+ 100% công phép + 8% máu thêm) sát thương trong 4 giây và tăng 30% tốc chạy trong thời gian hiệu lực – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 180.0,
+        "lifesteal": 12.0,
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0da61f44fe84a1cb80ab8901ff4d4b84d967f3faa5ab0dd78b6e2712fa91a509"
+    },
+    {
+      "external_key": "ma-phap-truong-bao",
+      "slug": "ma-phap-truong-bao",
+      "name": "Ma pháp trường bào",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2025/07/Ma-phap-truong-bao-1.jpg",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2160,
+      "description": "Thuộc tính: +120 Công phép +900 Máu tối đa\nNội tại duy nhất – Linh thể: Nhận 26 – 40 (+2% máu bản thân) công phép, tối đa không vượt quá 100 điểm.\nNội tại – Phá phép: Nhận 32 – 60 (+3% máu bản thân thêm) xuyên giáp phép, tối đa không vượt quá 150 điểm.",
+      "attributes": {
+        "magic_power": 120.0,
+        "max_health": 900.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "659f670d649c36b6d45153597ad38eab243fa106af5d407792e14a5bf09110f1"
+    },
+    {
+      "external_key": "cau-chiem-tinh",
+      "slug": "cau-chiem-tinh",
+      "name": "Cầu chiêm tinh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/11/cau-chiem-tinh.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 800,
+      "description": "+ 80 Công phép\nVang vọng: Tung chiêu bùng nổ trong phạm vi gây 180 sát thương phép, 5 giây hồi chiêu – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 80.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "93bdf96624de162b6c31a5b2fc1d1830ae582203013d774e786b1bc55d233c25"
+    },
+    {
+      "external_key": "diet-than-cung",
+      "slug": "diet-than-cung",
+      "name": "Diệt thần cung",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/11/diet-than-cung.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2980,
+      "description": "+ 50 Công vật lý\n+ 30% Tốc đánh\n+ 10% Tỷ lệ chí mạng\nPhá thần: Đòn đánh thường kèm 50 sát thương vật lý (gấp đôi với tướng đánh xa) – Nội tại duy nhất – hồi chiêu 0.35 giây\nXuyên thấu: Tăng 20% xuyên giáp (gấp đôi với tướng đánh xa) – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 50.0,
+        "attack_speed": 30.0,
+        "critical_chance": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "d5b8dd2defbddab23e40fea6bf88c8461f1721465d65371c45c26f6dd206762f"
+    },
+    {
+      "external_key": "huyet-cung",
+      "slug": "huyet-cung",
+      "name": "Huyết cung",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/11/huyet-cung.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 1100,
+      "description": "+ 40 Công vật lý\n+10% Tốc đánh\nXuyên thấu: Tăng 10% xuyên giáp (gấp đôi với tướng đánh xa) – Nội tại duy nhất",
+      "attributes": {
+        "armor_pierce": 10.0,
+        "physical_attack": 40.0,
+        "attack_speed": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ec5a87aa287415a09bdc1e9892346f3e4a895c7e5a85d868ac9fd176a9d8e885"
+    },
+    {
+      "external_key": "liet-hoa-than-toc",
+      "slug": "liet-hoa-than-toc",
+      "name": "Liệt hoả thần tốc",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16237.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+ 1200 Máu tối đa\n+8% Tốc chạy\nKích hoạt chủ động – Thần tốc: Tốc chạy của các tướng đồng minh trong phạm vi sẽ tăng dần trong vòng 2 giây, lên tới 20% – 100%, kéo dài 4 giây. Khi đi ngang qua một tướng đồng minh không được tăng tốc, hiệu ứng này sẽ được đồng bộ hóa với tướng đồng minh. Khi tấn công hoặc bị tướng địch đánh trúng sẽ chỉ giữ lại 20% tốc độ tăng thêm. Hồi chiêu 75 giây.\nNội tại – Tưởng thưởng: Tăng 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e0d2132902ffcacacd3e6940d4c1474a1964ba3241e0797e5c76ab27c93e3a8a"
+    },
+    {
+      "external_key": "liet-hoa-mo-troi",
+      "slug": "liet-hoa-mo-troi",
+      "name": "Liệt hoả mở trói",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16234.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+ 1200 Máu tối đa\n+8% Tốc chạy\nKích hoạt chủ động – Mở trói: Hóa giải tất cả hiệu ứng khống chế cho bản thân và đồng đội trong phạm vi đồng thời miễn khống trong 0.5 giây. Hồi chiêu 90 giây.\nNội tại – Tưởng thưởng: Tăgn 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "9f577d56d191b759156db488bdbe07bcbd522c4edee8f48d65295aea98882681"
+    },
+    {
+      "external_key": "liet-hoa-hoi-huyet",
+      "slug": "liet-hoa-hoi-huyet",
+      "name": "Liệt hoả hồi huyết",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16236.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+ 1200 Máu tối đa\n+8% Tốc chạy\nKích hoạt chủ động – Hồi huyết: Bản thân gắn liên kết với 1 tướng đồng minh (ít máu nhất trong phạm vi) và trong 5 giây hồi 500 – 1000 + 20% máu tối đa cùng 25% năng lượng tối đa cho cả 2. Vượt quá cự ly nhất định liên kết sẽ đứt. Bị tướng địch tấn công hoặc tấn công tướng địch, hiệu quả hồi phục chỉ còn 20% hiệu lực. Mỗi 50 giây dự trữ 1 lần, tối đa dự trữ 2 lần.\nNội tại – Tưởng thưởng: Tăng 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "1f23318811cdf4e74265374fc9845ec190b538d73146f4c50935142d28fa64c5"
+    },
+    {
+      "external_key": "liet-hoa-ma-nhan",
+      "slug": "liet-hoa-ma-nhan",
+      "name": "Liệt hoả ma nhãn",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16232.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+ 1200 Máu tối đa\n+8% Tốc chạy\nKích hoạt chủ động – Ma nhãn: Liên tục phát quang tầm nhìn chuẩn trong phạm vi xung quanh 4 giây và lập tức gây 2 lần sát thương phép cho tướng địch lân cận trong 2 giây. Mỗi lần gây sát thương tương đương với 8% máu tướng địch hiện tại kèm làm chậm 50%. Hồi chiêu 45 giây.\nNội tại – Tưởng thưởng: Tăgn 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "33214cecd0ec0634b3bc05ae5821c712dc1ab99ba23daf3cd1becf595391a047"
+    },
+    {
+      "external_key": "liet-hoa-than-khien",
+      "slug": "liet-hoa-than-khien",
+      "name": "Liệt hoả thần khiên",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16231.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+ 1200 Máu tối đa\n+8% Tốc chạy\nKích hoạt chủ động -Thần khiên: Lập tức tạo 1 lớp lá chắn giúp hấp thu 680 – 1800 sát thương cho bản thân và đồng đội lân cận trong 3 giây. Hồi chiêu 60 giây.\nNội tại – Tưởng thưởng: Tăng 32 -60 thuộc tính chủ đạo (1 thuộc tinh chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu bản thân và đồng đội.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b7d5841826b52a6c0c4275fa18cd02be23d738c64b5b485c9ed022ad5a4c0efc"
+    },
+    {
+      "external_key": "ai-ia-hoi-huyet",
+      "slug": "ai-ia-hoi-huyet",
+      "name": "Đại địa hồi huyết",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16216.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+1200 Máu tối đa\n+8% Tốc chạy\nKích hoạt chủ động – Hồi huyết: Bản thân gắn liên kết với 1 tướng đồng minh (ít máu nhất trong phạm vi) và trong 5 giây hồi 500 – 1000 + 20% máu tối đa cùng 25% năng lượng tối đa cho cả 2. Vượt quá cự ly nhất định liên kết sẽ đứt. Bị tướng địch tấn công hoặc tấn công tướng địch, hiệu quả hồi phục chỉ còn 20% hiệu lực. Mỗi 50 giây dự trữ 1 lần, tối đa dự trữ 2 lần.\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận.\nNội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "76885ade003413956cb98bd7c9457070382aefe47d5a41f87296373adc8626e8"
+    },
+    {
+      "external_key": "ai-ia-ma-nhan",
+      "slug": "ai-ia-ma-nhan",
+      "name": "Đại địa ma nhãn",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16212.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+1200 Máu tối đa\n+8% Tốc chạy\nKích hoạt chủ động – Ma nhãn: Liên tục phát quang tầm nhìn chuẩn trong phạm vi xung quanh 4 giây và lập tức gây 2 lần sát thương phép cho tướng địch lân cận trong 2 giây. Mỗi lần gây sát thương tương đương với 8% máu tướng địch hiện tại kèm làm chậm 50%. Hồi chiêu 45 giây.\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận\nNội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "2ffb310a359a4b429b623547fad8dd018e69e1bae6c7ce0e6d553f7afe38b06d"
+    },
+    {
+      "external_key": "ai-ia-than-khien",
+      "slug": "ai-ia-than-khien",
+      "name": "Đại địa thần khiên",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16211.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+1200 Máu tối đa\n+8% Tốc chạy\nThần khiên: Lập tức tạo 1 lớp lá chắn giúp hấp thu 680 – 1800 sát thương cho bản thân và đồng đội lân cận trong 3 giây. Hồi chiêu 60 giây – Kích hoạt chủ động\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận.\nNội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "99d0fd011abc0432b734a256b2d5b9e5b460fc613b56d33726ace7c14774c3f1"
+    },
+    {
+      "external_key": "ai-ia-mo-troi",
+      "slug": "ai-ia-mo-troi",
+      "name": "Đại địa Mở trói",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16214.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+1200 Máu tối đa\n+8% Tốc chạy\nKích hoạt chủ động – Mở trói: Hóa giải tất cả hiệu ứng khống chế cho bản thân và đồng đội trong phạm vi đồng thời miễn khống trong 0.5 giây. Hồi chiêu 90 giây.\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận.\nNội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "314c219a490fb2496a7680971401032230c6f766db31eab83c9d5fe2b10e06f2"
+    },
+    {
+      "external_key": "ai-ia-than-toc",
+      "slug": "ai-ia-than-toc",
+      "name": "Đại địa thần tốc",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16217.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 1900,
+      "description": "+1200 Máu tối đa\n+8% Tốc chạy\nKích hoạt chủ động – Thần tốc: Tốc chạy của các tướng đồng minh trong phạm vi sẽ tăng dần trong vòng 2 giây, lên tới 20% – 100%, kéo dài 4 giây. Khi đi ngang qua một tướng đồng minh không được tăng tốc, hiệu ứng này sẽ được đồng bộ hóa với tướng đồng minh. Khi tấn công hoặc bị tướng địch đánh trúng sẽ chỉ giữ lại 20% tốc độ tăng thêm. Hồi chiêu 75 giây.\nNội tại – Hậu cần: Mỗi 3 giây tăng 8 kinh nghiệm và tăng 8 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận.\nNội tại – Tưởng thưởng: Tăng 32-60 thuộc tính chủ đạo (1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép). Tăng 400 – 820 máu tối đa.",
+      "attributes": {
+        "max_health": 1200.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "bfae414f3afe2582df30eb9d99c7bfdc1bc1f3e2cfd12613a599264e2fb032d6"
+    },
+    {
+      "external_key": "hoa-he-bao-thach",
+      "slug": "hoa-he-bao-thach",
+      "name": "Hoả hệ bảo thạch",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2級輔助裝-法.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 900,
+      "description": "+600 Máu tối đâ\n+5% Tốc chạy\nNội tại – Tưởng thưởng: Tăng 16 – 30 thuộc tính chủ đạo ( 1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép ). Tăng 200-410 máu tối đa\nNội tại – Hậu cần: Mỗi 3 giây tăng 6 kinh nghiệm và tăng 6 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Cực ảnh: Tăng 5% tốc đánh và 5% giảm hồi chiêu cho bản thân và đồng đội.",
+      "attributes": {
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b44e62faf2c1aec4d2e93af5844cbe1a2a2510750a8704ed76ced31325e5c29c"
+    },
+    {
+      "external_key": "tho-he-bao-thach",
+      "slug": "tho-he-bao-thach",
+      "name": "Thổ hệ bảo thạch",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2級輔助裝-坦.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 900,
+      "description": "+600 Máu tối đâ\n+5% Tốc chạy\nNội tại – Tưởng thưởng: Tăng 16 – 30 thuộc tính chủ đạo ( 1 thuộc tính chủ đạo = 1 công vật lý hoặc 2 công phép ). Tăng 200-410 máu tối đa\nNội tại – Hậu cần: Mỗi 3 giây tăng 6 kinh nghiệm và tăng 6 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến phút 13 sẽ đạt tối đa)\nNội tại – Nguyên lực: Tăng 32 – 60 song giáp cho bản thân và đồng đội lân cận.",
+      "attributes": {
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "69781cee7a39fe614548954cf6060c8cf0e298cc10256866b9b1f48974741d7d"
+    },
+    {
+      "external_key": "nguyen-to-bao-thach",
+      "slug": "nguyen-to-bao-thach",
+      "name": "Nguyên tố bảo thạch",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icona78636f147efe1ac850a5495c044a9565ef2df9dd61a31.png",
+      "category_id": "24",
+      "category": "Trợ thủ",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 300,
+      "description": "+ 5% Tốc chạy\nNội tại – Hậu cần: Mỗi 3 giây tăng 6 kinh nghiệm và tăng 6 vàng cho tướng ít vàng nhất trong đội.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, nếu lính và quái rừng bị tiêu diệt sẽ giúp đồng đội nhận toàn bộ vàng và kinh nghiệm còn bản thân sẽ được nhận 30% – 50% vàng và kinh nghiệm. (Tăng theo thời gian, đến 13 phút sẽ đạt tối đa)",
+      "attributes": {
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e91aefb98087256209cde0ee7a09cdcc200f0480758469156946127b748de9d7"
+    },
+    {
+      "external_key": "giay-hermes",
+      "slug": "giay-hermes",
+      "name": "Giày Hermes",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b86b4a1e5a5c3801f0c11fd76a8cbe0c5875f18bcc5ec1.png",
+      "category_id": "22",
+      "category": "Tốc độ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+300 Máu tối đa\n+70 Tốc chạy – Nội tại duy nhất: Gia tốc\nNhanh nhạy: Tăng 60 Tốc chạy khi thoát khỏi trạng thái giao tranh – Nội tại duy nhất\nHoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút",
+      "attributes": {
+        "max_health": 300.0,
+        "movement_speed": 70.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "1b15cf8bb994e1671c80640d8c489ac9386879a36557ed4d4bd909c338de306b"
+    },
+    {
+      "external_key": "giay-du-muc",
+      "slug": "giay-du-muc",
+      "name": "Giày du mục",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3ff001f7078fc0b3f77e9ec7b283e2735875f14d9d0a31.png",
+      "category_id": "22",
+      "category": "Tốc độ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+20% Tốc đánh\n+60 Tốc chạy – Nội tại duy nhất: Gia tốc\nNội tại duy n hất: Đánh thường hồi 20 máu (Hồi chiêu: 0.3 giây)(Giảm 1 nửa hiệu ứng đối với đơn vị không phải tướng)\nHoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút",
+      "attributes": {
+        "attack_speed": 20.0,
+        "movement_speed": 60.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b789c958169243ed5a2be0b59297a81edee35ee0e4364c7ff9c6b41b6fa803ef"
+    },
+    {
+      "external_key": "giay-phu-thuy",
+      "slug": "giay-phu-thuy",
+      "name": "Giày phù thủy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/85bfb0396118e0b32f1e3f4b34911d235875f11c6208c1.png",
+      "category_id": "22",
+      "category": "Tốc độ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+60 tốc chạy – Nội tại duy nhất\n+100 Xuyên giáp phép – Nội tại duy nhất\nHoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút",
+      "attributes": {
+        "movement_speed": 60.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "786cca27a8655c24249ec2b3627389630a107004fa36a5d8c9b0be8c825570d5"
+    },
+    {
+      "external_key": "giay-thuat-si",
+      "slug": "giay-thuat-si",
+      "name": "Giày thuật sĩ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/114e22fe9d424beb6fe4aca5c456c5c35875f0f2d82ec1.png",
+      "category_id": "22",
+      "category": "Tốc độ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+15% Giảm hồi chiêu\n+60 Tốc chạy – Nội tại duy nhất: Gia tốc\nGiảm 15% hồi chiêu tối đa kỹ năng phụ trợ – Nội tại duy nhất\nHoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút",
+      "attributes": {
+        "movement_speed": 60.0,
+        "cooldown_reduction": 15.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "38e469e42b76d9ea63b4fb66fd3c871f943c1aff1a5e4836cfec7e2e1d0ab2b4"
+    },
+    {
+      "external_key": "giay-kien-cuong",
+      "slug": "giay-kien-cuong",
+      "name": "Giày kiên cường",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3a856551539a716067add52f8fc65bc65875f0c7db9e51.png",
+      "category_id": "22",
+      "category": "Tốc độ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+90 Giáp phép\n+60 Tốc chạy – Nội tại duy nhất: Gia tốc\n+35% Kháng hiệu ứng – Nội tại duy nhất (kháng hiệu ứng là giảm thời gian chịu các loại khống chế)\nHoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút",
+      "attributes": {
+        "magic_defense": 90.0,
+        "movement_speed": 60.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "5232a251751fb670c125e371201667f2da9b79163f8d3ddb1bf46720684f1bfe"
+    },
+    {
+      "external_key": "giay-ho-ve",
+      "slug": "giay-ho-ve",
+      "name": "Giày hộ vệ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0b2a528cdd009437b1635def58e353675875f09318ffd1.png",
+      "category_id": "22",
+      "category": "Tốc độ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+110 Giáp\n+60 Tốc chạy – Nội tại duy nhất: Gia tốc\nGiảm 10% sát thương vật lý phải chịu – Nội tại duy nhất\nHoán đổi miễn phí với các giày cấp II, hồi chiêu 3 phút",
+      "attributes": {
+        "armor": 110.0,
+        "movement_speed": 60.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "dcf9ea6a6d600a3e5c8c66cf99747421468ae6d8c160e1b566853b126c0ca0df"
+    },
+    {
+      "external_key": "giay-thep",
+      "slug": "giay-thep",
+      "name": "Giày thép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/de8cb12606b2dd64c2a2ae53225453395875f0551a9091.png",
+      "category_id": "22",
+      "category": "Tốc độ",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 250,
+      "description": "+30 Tốc chạy – Nội tại duy nhất: Gia tốc",
+      "attributes": {
+        "movement_speed": 30.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "611409070855475d3f92575ea74ff10d2d05498609fadace61c61d309d12b918"
+    },
+    {
+      "external_key": "nham-thuan",
+      "slug": "nham-thuan",
+      "name": "Nham thuẫn",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icone5253595746abc893db9abe7568410315ef414f03aac11.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1980,
+      "description": "+1200 Máu tối đa\n+240 Giáp\nTích tụ: Nhận lá chắn tương đương (30% máu tối đa + 10% máu đã mất) trong 3 giây và giảm 70% sát thương gây ra trong thời gian này. Hồi chiêu 60 giây – Kích hoạt duy nhất & có thể dùng khi bị khống chế",
+      "attributes": {
+        "armor": 240.0,
+        "max_health": 1200.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "322a7c363cdcf84d622f9826e64285d5ace975fa253b35b5f4a35a63af5c1fa1"
+    },
+    {
+      "external_key": "phu-chu-truong-sinh",
+      "slug": "phu-chu-truong-sinh",
+      "name": "Phù chú trường sinh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icond155d1aa807b4022dd22a16cfa171d5f5853665105cd41.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2190,
+      "description": "+150 giáp\n+100 giáp phép\n+1500 máu tối đa\nNội tại duy nhất – Trường Sinh: Mỗi 2 giây hồi 1% máu tối . Nếu trong 3s không bị tướng địch hoặc trụ tấn công, hiệu quả hồi phục sẽ trở thành 4%.",
+      "attributes": {
+        "magic_defense": 100.0,
+        "armor": 150.0,
+        "max_health": 1500.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "d6a71b70a504b17fc5e7f92b2a40a00a99c5907e02aac8a76b949fc503d887a4"
+    },
+    {
+      "external_key": "ao-choang-bang-gia",
+      "slug": "ao-choang-bang-gia",
+      "name": "Áo choàng băng giá",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon55eaf54151e5f99b1442aceb380cb3cf58536633305011.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1970,
+      "description": "+10% Giảm hồi chiêu\n+200 Giáp\n+800 Máu tối đa\nSức mạnh nguyên tố: Sau khi tung chiêu, trong 5 giây sẽ khiến đòn đánh kế gây thêm 100 (+30% công vật lý) sát thương vật lý lan trong phạm vi 3m quanh mục tiêu kèm 30% làm chậm địch (tướng đánh xa làm chậm chỉ được 20%) trong 0.5 giây; 0.65 giây hồi – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 30.0,
+        "armor": 200.0,
+        "max_health": 800.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "44c59734b287862350ecfef888bdc00b54529cf10dc609f85c3cf9d1f39f521b"
+    },
+    {
+      "external_key": "giap-ho-menh",
+      "slug": "giap-ho-menh",
+      "name": "Giáp hộ mệnh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon6b6c892834f3b9840bec892627dbeedb5b87c72793cd01.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2400,
+      "description": "+120 Giáp\nChiến khí: Tăng sát thương bản thân gây ra thêm 10% – Nội tại Duy nhất\nPhục sinh: Tướng sẽ sống lại sau 2 giây tại nơi bị hạ gục với 2100 – 3500 Máu; 150 giây hồi chiêu. Đặc biệt mỗi trận chỉ có tác dụng 2 lần – Nội tại duy nhất",
+      "attributes": {
+        "armor": 120.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "9d7bf5d60e84fb13ea58164e73b1743106c8440ee9bfbcbbb92d554be0fc29c1"
+    },
+    {
+      "external_key": "huan-chuong-troy",
+      "slug": "huan-chuong-troy",
+      "name": "Huân chương Troy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7c7e5cbc16a0a12b0363ffec0dd4bbe0583eb735ebea21.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2320,
+      "description": "+200 Giáp phép\n+1000 Máu tối đa\n+10% Giảm hồi chiêu\nHộ thân: Rời khỏi giao tranh nhận được một lớp bảo hộ giúp hấp thu 460 – 1300 sát thương phép – Nội tại duy nhất\nNội lực: Nhận 0 – 112 giáp phép (tăng theo cấp) – Nội tại duy nhất",
+      "attributes": {
+        "magic_defense": 200.0,
+        "max_health": 1000.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0cd629350b06e7360ee758f81ae8a5514d23ed7ad2e2169bffc5808f0ed11883"
+    },
+    {
+      "external_key": "giap-gaia",
+      "slug": "giap-gaia",
+      "name": "Giáp Gaia",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9f2d442bf8b0f7597bd23de1af9c1ba9583eb6859264b1.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2180,
+      "description": "+200 Giáp phép\n+1200 Máu tối đa\nNội tại duy nhất – Hồi phục: Khi chịu sát thương, tướng hồi 4 % máu tối đa trong 2 giây (10 giây hồi chiêu).\nThêm mới Nội tại duy nhất thứ 2 – Huyết Thống: Mỗi 10% máu bị mất thì hiệu ứng hồi máu sẽ tăng 5%",
+      "attributes": {
+        "magic_defense": 200.0,
+        "max_health": 1200.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "55b5539b7441be03c7c005ccc7007d048b3a2ea12279c45bc00c0088efb6b7d6"
+    },
+    {
+      "external_key": "khien-huyen-thoai",
+      "slug": "khien-huyen-thoai",
+      "name": "Khiên huyền thoại",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/22878b0202ea24b883044a9c642d5536583eb618cf2971.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2180,
+      "description": "+360 Giáp\n+400 Năng lượng\n+20% Giảm hồi chiêu\nTrói Buộc Tinh Thần: Giảm 30% tốc đánh của kẻ địch lân cận trong phạm vi 5m – Nội tại duy nhất",
+      "attributes": {
+        "armor": 360.0,
+        "attack_speed": 30.0,
+        "cooldown_reduction": 20.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "12d45de66ef58abe10f003a0ec55837a8f0d815093604934ed9e4a4ccf878414"
+    },
+    {
+      "external_key": "khien-that-truyen",
+      "slug": "khien-that-truyen",
+      "name": "Khiên thất truyền",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/098ae164502918650b6334ce885d7d71583eb5aa4f7e31.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2100,
+      "description": "+275 Giáp\n+1200 Máu tối đa\nLính gác: Nếu tướng chịu sát thương, giảm 30% Tốc đánh và 15% Tốc chạy của những đối thủ đã ra đòn đánh – Nội tại duy nhất",
+      "attributes": {
+        "armor": 275.0,
+        "max_health": 1200.0,
+        "attack_speed": 30.0,
+        "movement_speed": 15.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "15a181a886fc496ca4ddc7e2e52120546510d9f96bd17b592dff2fab06c60cbd"
+    },
+    {
+      "external_key": "ao-choang-than-ra",
+      "slug": "ao-choang-than-ra",
+      "name": "Áo choàng thần Ra",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconc412f57b9e56e33473ff1a7c87f64c3c5c8b6e31b77f71.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2060,
+      "description": "+1000 Máu tối đa\n+225 Giáp\n+60 Hồi máu/5s\nHỏa diệm: Gây 2% máu tối đa thành sát thương phép mỗi giây lên những kẻ địch cạnh bên (tăng 50% sát thương lên quái và lính) – Nội tại duy nhất\nTróc nã – Hỏa diệm gây sát thương thiêu đốt và giảm 40% hiệu ứng hồi máu của địch trong 3s – Nội tại duy nhất",
+      "attributes": {
+        "armor": 225.0,
+        "max_health": 1000.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "abd5a65ce8d2a72cea1930502220eb9a710115951cd65d2ff14e7b7b2a4515f0"
+    },
+    {
+      "external_key": "giap-cuong-no",
+      "slug": "giap-cuong-no",
+      "name": "Giáp cuồng nộ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f1221bb1919f19d0ffd7aa3b9d521248583eb5022028c1.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 1900,
+      "description": "+225 Giáp\n+1200 Máu tối đa\n+5% Tốc chạy\nĐiên cuồng: Sau khi chịu sát thương, gia tăng 1% tốc chạy và sát thương gây ra thêm 2%, hiệu ứng có thể cộng dồn 5 lần, kéo dài 3 giây – Nội tại duy nhất",
+      "attributes": {
+        "armor": 225.0,
+        "max_health": 1200.0,
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "1f3d5ec7dabd9afbb63e22e4307aa322d2b187a40fa05de4d98ba1138860e853"
+    },
+    {
+      "external_key": "hercule-thinh-no",
+      "slug": "hercule-thinh-no",
+      "name": "Hercule thịnh nộ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconce863be5ae7f9884727b453959c033e159eebee5cca801.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 2000,
+      "description": "+80 Công vật lý\n+240 Giáp\nNội tại duy nhất – Cuồng Nộ: Khi máu của tướng xuống dưới 40%, tăng 20% hút máu (chỉ đánh gần) và tạo ra một lớp lá chắn 880 – 2000 trong 8 giây, 60 giây hồi chiêu.",
+      "attributes": {
+        "physical_attack": 80.0,
+        "armor": 240.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "60af8404b063cace8dd8050381bc8b4e32b71fac093fa5be625494f19faebef8"
+    },
+    {
+      "external_key": "giap-thong-kho",
+      "slug": "giap-thong-kho",
+      "name": "Giáp thống khổ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1daf820a0922c35d2b4dfe54082d35f2583eb43c655ad1.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 1940,
+      "description": "+300 Giáp\n+1200 Máu tối đa\nPhản pháo: Phản lại 15% sát thương vật lý đã gánh chịu thành sát thương phép lên mục tiêu (sát thương chưa trải qua các cơ chế giảm trừ theo giáp) – Nội tại duy nhất",
+      "attributes": {
+        "armor": 300.0,
+        "max_health": 1200.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "4ff162037a0caa44e62eef8fdd586b51f3466444ab22f932d94f952b9e8b82e0"
+    },
+    {
+      "external_key": "giap-hiep-si",
+      "slug": "giap-hiep-si",
+      "name": "Giáp hiệp sĩ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8126b39e85bcfef53fad3131bafc2cd5583eb36918dac1.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 730,
+      "description": "+210 Giáp\nLính gác: Nếu tướng chịu sát thương, giảm 15% tốc đánh của những đối thủ đã ra đòn đánh – Nội tại duy nhất",
+      "attributes": {
+        "armor": 210.0,
+        "attack_speed": 15.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "37a711148d37c094e1cf3f4963525370ee45092cfaf5f2f993153e9ac89546bd"
+    },
+    {
+      "external_key": "gang-bach-kim",
+      "slug": "gang-bach-kim",
+      "name": "Găng bạch kim",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f38b144529e66db02a901c175847440b583eb3271e7d01.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 660,
+      "description": "+10% giảm hồi chiêu\n+110 Giáp",
+      "attributes": {
+        "armor": 110.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "eaa55d979275c32d19ffc49bafb8997b4051deba608ef6f479363c3e925301a9"
+    },
+    {
+      "external_key": "ai-khang-phep",
+      "slug": "ai-khang-phep",
+      "name": "Đai kháng phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/72ed5eddefd9d571f0db1fc9527d2f22583eb2fa338c81.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 1000,
+      "description": "+700 Máu tối đa\n+110 Giáp phép\nHồi phục: Nếu chịu sát thương, tướng sẽ hồi 4% máu tối đa trong 2 giây; 15 giây hồi chiêu – Nội tại duy nhất",
+      "attributes": {
+        "magic_defense": 110.0,
+        "max_health": 700.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "6a9c1ad21488e2e3afb5dd62b646ce19b87ea72b1583fd110b6db0dc4acf1339"
+    },
+    {
+      "external_key": "tim-incubus",
+      "slug": "tim-incubus",
+      "name": "Tim Incubus",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d0d241f0a2a236806b000ff5241f9802583eb2a658eed1.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 720,
+      "description": "+150 Giáp\nHỏa diệm: Gây 50 – 78 sát thương phép mỗi giây lên những kẻ địch cạnh bên (tăng 50% sát thương lên quái và lính) – Nội tại duy nhất",
+      "attributes": {
+        "armor": 150.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b637002ecd1669ea13c9294805d3b123c2d1524507c064df3c6b56408148167d"
+    },
+    {
+      "external_key": "giap-chan",
+      "slug": "giap-chan",
+      "name": "Giáp chân",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b776c4c957f4e6f1e947e06686743a8c583eb243203f71.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 900,
+      "description": "+1000 Máu tối đa",
+      "attributes": {
+        "max_health": 1000.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "72bcab2d769684ef345aa12694bd05ed18bbdb1a7d93c1aab29f8bd26d03394e"
+    },
+    {
+      "external_key": "day-chuyen-hong-ngoc",
+      "slug": "day-chuyen-hong-ngoc",
+      "name": "Dây chuyền hồng ngọc",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconc297c6ca61d3e8715eea595918f2b1d15ef49a36db0c01.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 540,
+      "description": "+600 Máu tối đa",
+      "attributes": {
+        "max_health": 600.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "6499656090e51b2209c49e6f182688aac18376110760edd4bad067d9fb4caa6a"
+    },
+    {
+      "external_key": "bua-suc-manh",
+      "slug": "bua-suc-manh",
+      "name": "Bùa sức mạnh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon9b4b623c7f5f3db68735401591039e6e59eec0dfee3aa1.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 140,
+      "description": "+30 Hồi máu/5s",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "fe2edec0e41802742463f8427d180f1977319ecc038de4a1c4727a385a6762d8"
+    },
+    {
+      "external_key": "gang-giac-au",
+      "slug": "gang-giac-au",
+      "name": "Găng giác đấu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon60c31461246a65b82f647310a13cc35b5ef41468c818d1.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 220,
+      "description": "+90 Giáp phép",
+      "attributes": {
+        "magic_defense": 90.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "00d01445cb1e50ff61b63755bbaae8ca51fc451249342849a909f18105c91785"
+    },
+    {
+      "external_key": "giap-nhe",
+      "slug": "giap-nhe",
+      "name": "Giáp nhẹ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1e01e847498a4e8ac12a56b22189783d583eb1929d05a1.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 220,
+      "description": "+ 90 Giáp",
+      "attributes": {
+        "armor": 90.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "30551bdd594bc6089081b034b5a7d60b9718cf96eaf608a32281df5763ec862b"
+    },
+    {
+      "external_key": "nhan-hong-ngoc",
+      "slug": "nhan-hong-ngoc",
+      "name": "Nhẫn hồng ngọc",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon84752d478c1737c85f2eb77a063cb11a5ef4145c956231.png",
+      "category_id": "21",
+      "category": "Thủ",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 300,
+      "description": "+300 Máu tối đa",
+      "attributes": {
+        "max_health": 300.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "d0201ab3c36e51740fb55900f73638f7748b9c06872a7df031a55b78cf51525e"
+    },
+    {
+      "external_key": "xuyen-tam-lenh",
+      "slug": "xuyen-tam-lenh",
+      "name": "Xuyên tâm lệnh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a93be23a737e4619fa8539820f25a8725e453576be69c1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1980,
+      "description": "+140 Công phép\n+500 Máu tối đa\nNội tại – Oán chú: Tung chiêu trúng kẻ địch sẽ giảm 10% công phép và 100 giáp phép của mục tiêu, kéo dài 3 giây.",
+      "attributes": {
+        "magic_power": 140.0,
+        "max_health": 500.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "067b46784e50a5e9363cb1de83f1d79074601001969dea965239249a766d82f0"
+    },
+    {
+      "external_key": "bang-nhan-skadi",
+      "slug": "bang-nhan-skadi",
+      "name": "Băng nhẫn Skadi",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ff28203912b57f6855013cad060d0f8f5e45355793b4d1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2100,
+      "description": "+140 Công phép\n+ 600 Máu tối đa\n+5% Giảm Hồi chiêu\nGiáp băng: Nhận (+50% công phép) giáp, giáp phép, nhưng không vượt quá 230 điểm – Nội tại Duy nhất",
+      "attributes": {
+        "magic_power": 140.0,
+        "max_health": 600.0,
+        "cooldown_reduction": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "21f379d17b1053a33997e84ee147d71b4b52921a7812d701b0828b79ae880779"
+    },
+    {
+      "external_key": "qua-cau-bang-suong",
+      "slug": "qua-cau-bang-suong",
+      "name": "Quả cầu băng sương",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconf30f58d64f6de018d472a24497b8e8475ef414dc8c8931.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2200,
+      "description": "+220 Công phép\n+ 12% Hút máu phép\nPhong ấn: Trở thành bất khả xâm phạm và bất động trong 1.5 giây; Sau khi kết thúc sẽ nhận 1 lá chắn giúp chặn 500 (+ mỗi cấp*40) (+50% công phép) trong 1 giây. 75 giây hồi chiêu – Kích hoạt Duy nhất",
+      "attributes": {
+        "magic_power": 220.0,
+        "lifesteal": 12.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7768fe4f9e16eeea2a290d6fad3f6fb530a08f1121e173440065a2bfc17b2501"
+    },
+    {
+      "external_key": "mat-na-berith",
+      "slug": "mat-na-berith",
+      "name": "Mặt nạ Berith",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/722dfa95e17bc0ae4fca1370b39db24e583eb4a552d901.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1800,
+      "description": "+140 Công phép\n+10% Giảm hồi chiêu\n+600 Máu tối đa\nThống khổ: Chiêu thức trúng đích khiến kẻ địch chịu 80 (2% máu hiện tại mục tiêu ) thành sát thương phép mỗi giây trong 3 giây. (Sát thương tối đa lên Quái rừng: 200)",
+      "attributes": {
+        "magic_power": 140.0,
+        "max_health": 600.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "fc97e565b8aa04af11aaacdfa3eab82495ec8b38fd2a4db4dfe025fb923b3422"
+    },
+    {
+      "external_key": "truong-bang",
+      "slug": "truong-bang",
+      "name": "Trượng băng",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/18a94ba7877043520ad478e08bc4b0bc583eb43f03b4d1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2020,
+      "description": "+140 Công phép\n+850 Máu tối đa\n+5% Tốc chạy\nGiá băng: Chiêu thức gây sát thương đồng thời làm chậm 20% Tốc chạy của đối thủ trong 2 giây – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 140.0,
+        "max_health": 850.0,
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "9e04ad717f0dd677592b1414c6a1957a75bd607efd9a7e86000ccbfd4d036aed"
+    },
+    {
+      "external_key": "thap-tu-kiem",
+      "slug": "thap-tu-kiem",
+      "name": "Thập Tự Kiếm",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icona69219340114945bffc9ee0648b76df659eebed145bd21.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+180 Công phép\n+20% Tốc đánh\n+5% Tốc chạy\nCấp nhận: Đòn đánh thường kế tiếp tăng 15% tốc đánh cộng thêm trong 4 giây; cộng dồn 2 lần – Nội tại Duy nhất\nThánh quang: Đòn đánh thường gây 40 (+20% công phép thêm) sát thương phép – Nội tại duy nhất (hồi chiêu: 0.35 giây)",
+      "attributes": {
+        "magic_power": 180.0,
+        "attack_speed": 20.0,
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "49d7e55b9838e02428411eef33a2158e4e31599570330994abc97249480bf092"
+    },
+    {
+      "external_key": "quyen-truong-rhea",
+      "slug": "quyen-truong-rhea",
+      "name": "Quyền trượng Rhea",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2eabc8620f02b21582e3b88ea1f95f40583eb3ad4c2941.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2050,
+      "description": "+160 Công phép\n+800 Máu tối đa\n+25% Hút máu phép\nNội tại – Chuyển hóa: Mỗi 2% hút máu phép chuyển thành 1% giảm hồi chiêu",
+      "attributes": {
+        "magic_power": 160.0,
+        "max_health": 800.0,
+        "lifesteal": 25.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "2313ac779daa90835626186e8d12423c160ee7afc70fe5d572f619bf780f23eb"
+    },
+    {
+      "external_key": "ngoc-ai-phap-su",
+      "slug": "ngoc-ai-phap-su",
+      "name": "Ngọc đại pháp sư",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5e2bc1f8eb06b085df149928bb6db37f583eb34e349451.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1800,
+      "description": "+140 Công phép\n+10% Giảm hồi chiêu\nTrường tồn: Mỗi 30 giây nhận thêm 12 Công phép, và 120 Máu. Hiệu ứng cộng dồn tối đa 10 lần – Nội tại duy nhất\nTưởng thưởng anh hùng: Khi tướng lên cấp, hồi phục 20% Máu và 10% Năng lượng trong 3 giây – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 140.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b53a7146844d6f7cc1a05bcdff45170a26f3f61c2287155890fb5bdc72d57875"
+    },
+    {
+      "external_key": "vuong-mien-hecate",
+      "slug": "vuong-mien-hecate",
+      "name": "Vương miện Hecate",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/29845a83cf9ddd3d17e0fcd07aabe61e583eb2e7b1a651.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2400,
+      "description": "+240 Công phép\nThuật sư: +35% Công phép – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 240.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ee3c392610c9af72056a492c2aec1582a549a53a14699b2d4cb7ac4745bc3455"
+    },
+    {
+      "external_key": "truong-bung-no",
+      "slug": "truong-bung-no",
+      "name": "Trượng bùng nổ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3cdbf8caaf2dc260fd962f5d31c074c5583eb2abdcb021.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1800,
+      "description": "+200 Công phép\n+5% Tốc chạy\nVang vọng: Tạo nên một vùng nổ nhỏ gây 120 (+40% công phép thêm) sát thương phép xung quanh mục tiêu bị trúng chiêu, 5 giây hồi chiêu – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 200.0,
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "41ca97e751ed26bad0c47417a35b63d6e4c158f1c8064a890969c03cb9549e24"
+    },
+    {
+      "external_key": "sach-thanh",
+      "slug": "sach-thanh",
+      "name": "Sách thánh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13b087b42ee35a7138a782d260cff7c9583eb099e321d1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2610,
+      "description": "+350 Công phép\n+10% Giảm hồi chiêu\nNội tại duy nhất – Pháp thể: Mỗi 100 công phép tăng 0.5% sát thương gây ra và 0.5% tỷ lệ miễn thương.",
+      "attributes": {
+        "magic_power": 350.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "c6b2d1920a803a13ff2124a34838620c74b48e30c5fac62b20586bd77f13c7fa"
+    },
+    {
+      "external_key": "guom-hien-triet",
+      "slug": "guom-hien-triet",
+      "name": "Gươm hiền triết",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a9f9ae5e132e65a1711d6c59bb616dff583eb0417f88d1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2100,
+      "description": "+140 Công phép\n+600 Máu tối đa\n+10% Giảm hồi chiêu\nDiệt thần: Tung chiêu hoặc đánh thường trúng tướng địch sẽ cộng dồn 10 – 24 xuyên giáp phép, tối đa cộng dồn 10 lần, kéo dài 3 giây – Nội tại duy nhất",
+      "attributes": {
+        "magic_pierce": 24.0,
+        "magic_power": 140.0,
+        "max_health": 600.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e8333c82af541f606bfbbd34d99771494fbce026b110fec36802f7d0ebc31733"
+    },
+    {
+      "external_key": "guom-tan-the",
+      "slug": "guom-tan-the",
+      "name": "Gươm tận thế",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fae96e865899f2e3e2cda185b58aee12583eafaae4a281.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1800,
+      "description": "+180 Công phép\n+10% Giảm hồi chiêu\n+5% tốc chạy\nSức mạnh nguyên tố: Sau khi tung chiêu, đòn đánh kế tiếp gây thêm (30% công vật lý+80% công phép) sát thương phép, 2 giây hồi chiêu – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 30.0,
+        "magic_power": 180.0,
+        "movement_speed": 5.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0f85d20578a8d8934121fc983cc89fb3e31ddb016238e58fbaecfdf1ae3772d0"
+    },
+    {
+      "external_key": "sach-truy-hon",
+      "slug": "sach-truy-hon",
+      "name": "Sách Truy Hồn",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c9420fcfd346612dd10cfc7cc3ca9b575965da11b6b361.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 1900,
+      "description": "+140 Công phép\n+600 Máu tối đa\n+ 10% Giảm hồi chiêu\nTróc nã: Đòn đánh thường/tung chiêu gây sát thương sẽ khiến mục tiêu bị giảm 40% hiệu quả hồi máu, kéo dài trong 3 giây – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 140.0,
+        "max_health": 600.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7e4efc7128274e9915eb132a40a8d3e436b9ec55905d7f8a4a00c627cd51f89b"
+    },
+    {
+      "external_key": "day-chuyen-luc-bao",
+      "slug": "day-chuyen-luc-bao",
+      "name": "Dây chuyền lục bảo",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon8103b0d6e1a14ff19e46c13910e854115976f9749f2ac1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 1800,
+      "description": "+160 Công phép\n+15% Giảm hồi chiêu\n+ 25 Hồi năng lượng/5s\nHiền giả: Mỗi giây hồi 1% năng lượng – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 160.0,
+        "cooldown_reduction": 15.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "16e576444a94bd6d0d8faf73de67412835af879a70ba1acb219a3596339377cf"
+    },
+    {
+      "external_key": "truong-hon-mang",
+      "slug": "truong-hon-mang",
+      "name": "Trượng hỗn mang",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconb1d589bb71a28a6cb2c3f9f5bbb2e5a05976f9dd872e81.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 2050,
+      "description": "+180 Công phép\n+10% Giảm hồi chiêu\n+40% Xuyên giáp phép – Nội tại duy nhất",
+      "attributes": {
+        "magic_pierce": 40.0,
+        "magic_power": 180.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "1bd1b9359406cfd294b43103e1ad48ce257bd576260c3bddf081a849f0deeaa3"
+    },
+    {
+      "external_key": "huyet-truong",
+      "slug": "huyet-truong",
+      "name": "Huyết trượng",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d9e5acef68f2f58e65fbb98a8be457ff583eb23412f3a1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 800,
+      "description": "+80 Công phép\n+12% Hút máu phép",
+      "attributes": {
+        "magic_power": 80.0,
+        "lifesteal": 12.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "67a3797098dbf315c41ba60c0955cb2f29b112bd2d287b3aa913d4d8450c41b9"
+    },
+    {
+      "external_key": "vong-uc-hanh",
+      "slug": "vong-uc-hanh",
+      "name": "Vòng đức hạnh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/87e8108995142053f4c9404279233a20583eb207e77931.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 720,
+      "description": "+60 Công phép\n+20 Hồi năng lượng/5s\n+5% Giảm hồi chiêu",
+      "attributes": {
+        "magic_power": 60.0,
+        "cooldown_reduction": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "786dc81d3da13e9f7eed3e1b87f240398a96eb80ed3f1b95c952c1a61b11c8e1"
+    },
+    {
+      "external_key": "phuong-hoang-le",
+      "slug": "phuong-hoang-le",
+      "name": "Phượng hoàng lệ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16bdc639fcd2451b890a545c4b09f6e1583eb1c5c672e1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 500,
+      "description": "+50 Công phép\nTưởng thưởng anh hùng: Khi tướng lên cấp, hồi phục 20% Máu và 10% Năng lượng trong 3 giây – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 50.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "5afdfd5c139c558aebc4a53d61d754a9e3fa709b5cf4c0082915d91b2583acb2"
+    },
+    {
+      "external_key": "mat-na-ma-quai",
+      "slug": "mat-na-ma-quai",
+      "name": "Mặt nạ ma quái",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/77650eb45ea686167327f9128590dc53583eb194634c31.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 960,
+      "description": "+100 Công phép\nDiệt thần: +75 Xuyên giáp phép – Nội tại Duy nhất",
+      "attributes": {
+        "magic_pierce": 75.0,
+        "magic_power": 100.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "5bf23c44e02b53787b87445022011119249735c804f2c7f032d9551b34d1e04b"
+    },
+    {
+      "external_key": "guom-nguyen-to",
+      "slug": "guom-nguyen-to",
+      "name": "Gươm nguyên tố",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/73bcd25e5a2f1139dec8c7b09c8b8650583eb15c7cce91.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 820,
+      "description": "+ 40 Công phép\n+10% Giảm hồi chiêu\nSức mạnh nguyên tố: Sau khi tung chiêu, đòn đánh thường tiếp theo của tướng gây thêm (30% công vật lý+18% công phép) sát thương phép, 3 giây hồi chiêu – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 30.0,
+        "magic_power": 40.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "8eec845a8b9d922291e880504f165c36d081c2a7a54c5cd961dea1f607cbfbf7"
+    },
+    {
+      "external_key": "so-ma-thuat",
+      "slug": "so-ma-thuat",
+      "name": "Sớ ma thuật",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/585ee3fa8a1f94fd26d8e0336e534609583eb11f66eac1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 820,
+      "description": "+120 Công phép",
+      "attributes": {
+        "magic_power": 120.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "9c39ce397de2a6329e87de275fb94540c0a7ebdc0fe3c89f50ec80bf04678ec3"
+    },
+    {
+      "external_key": "nhan-ma-phap",
+      "slug": "nhan-ma-phap",
+      "name": "Nhẫn ma pháp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/447da6386d8e761eea825726bd9bf224583eb1046a87b1.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 300,
+      "description": "+5% giảm hồi chiêu – Nội tại duy nhất",
+      "attributes": {
+        "cooldown_reduction": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "30665d96a9b7c1f2b38c62c05a938f8ccdcc41960d44f075b23ce65301da05d4"
+    },
+    {
+      "external_key": "sach-co",
+      "slug": "sach-co",
+      "name": "Sách cổ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a1f23877567b4d9b450624aa7b6a99f9583eb0df82d641.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 540,
+      "description": "+80 Công phép",
+      "attributes": {
+        "magic_power": 80.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "fe869cbfd75c92ef78a4dfc20720d9e569a65520dd8abd71aae714ec77f9163d"
+    },
+    {
+      "external_key": "day-chuyen-ma-thuat",
+      "slug": "day-chuyen-ma-thuat",
+      "name": "Dây chuyền ma thuật",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon43d3c483d428cf8f1e7a4b03fff7356b5ef4143e8db341.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 120,
+      "description": "+10 Hồi năng lượng/5s",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "66f5f084656da52ae58c6f30a8905634967ebeed57596b60c8506d8b242db411"
+    },
+    {
+      "external_key": "nhan-lapis",
+      "slug": "nhan-lapis",
+      "name": "Nhẫn Lapis",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icona33a692bf196ac687212c8bd472e4a655ef4142a343721.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 220,
+      "description": "+300 Năng lượng tối đa",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b684c2fbb89a3ea0c3efb146511b3a9f29a75d85feb4061ff03a2538eb41a917"
+    },
+    {
+      "external_key": "sach-phep",
+      "slug": "sach-phep",
+      "name": "Sách phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1108678613455e7b64ca9507065db8d5583eb07ed42e91.png",
+      "category_id": "20",
+      "category": "Phép",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 300,
+      "description": "+40 Công phép",
+      "attributes": {
+        "magic_power": 40.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "073f92c46f0a2d28a78b40109a5d281e949666cfb74e583a15563e6e21951b0d"
+    },
+    {
+      "external_key": "cung-bao-to",
+      "slug": "cung-bao-to",
+      "name": "Cung Bão Tố",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8f835e52d8078207bb955bc2657867ba5ac48dd56f1791.png",
+      "category_id": "23",
+      "category": "Đi rừng",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2000,
+      "description": "+30% Tốc đánh\n+15% Hút máu\n+7% Tốc chạy\nLốc xoáy: Mỗi đòn đánh thường tích một điểm cộng dồn hiệu ứng lên nạn nhân, thứ sẽ gây thêm 15 – 19 sát thương phép; tối đa cộng dồn hiệu ứng 6 lần – Nội tại duy nhất. Hồi chiêu 0.3 giây.\nLùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 0.8% tốc đánh và 0.2% hút máu, tối đa cộng dồn 25 lần – Nội tại duy nhất.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)\nSăn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất",
+      "attributes": {
+        "attack_speed": 30.0,
+        "lifesteal": 15.0,
+        "movement_speed": 7.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e84930f6e07bc49dbf841fbcd428569e6b3f57d55efd95cdae3283a6bfb12a52"
+    },
+    {
+      "external_key": "kiem-truy-hon",
+      "slug": "kiem-truy-hon",
+      "name": "Kiếm truy hồn",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/962f75587871dfe385b2eed0071fd80f5875efc662a801.png",
+      "category_id": "23",
+      "category": "Đi rừng",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2000,
+      "description": "+90 Công vật lý\n+5% Giảm hồi chiêu\n+8% Tốc chạy\nNhận hiệu ứng tê tái\nSăn bắt: Đòn đánh thường hoặc chiêu sẽ gây thêm 60-172 sát thương chuẩn lên quái rừng mỗi 0.5s, kéo dài 2s. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất.\nXuyến chắn: +60 xuyên giáp – Nội tại duy nhất\nLùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 2 công vật lý và 0.2% giảm hồi chiêu, tối đa cộng dồn 25 lần – Nội tại duy nhất.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)",
+      "attributes": {
+        "physical_attack": 90.0,
+        "movement_speed": 8.0,
+        "cooldown_reduction": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "12a6f085c3b6f1cf80d0b2e2d099c70305f57dcaeb3035f32715e523c39fe74b"
+    },
+    {
+      "external_key": "riu-leviathan",
+      "slug": "riu-leviathan",
+      "name": "Rìu Leviathan",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5cbcea0c03cb8fbcffef6706943b59095875ef42bc1b91.png",
+      "category_id": "23",
+      "category": "Đi rừng",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2000,
+      "description": "+1200 Máu tối đa\n+5% Giảm hồi chiêu\n+6% Tốc cháy\nNhận hiệu ứng tê tái\nHỏa diệm: Gây 2% máu tối đa thành sát thương phép mỗi giây lên những kẻ địch cạnh bên (tăng 100% sát thương lên quái) – Nội tại duy nhất\nLùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 0.8% tốc đánh và 0.2% hút máu, tối đa cộng dồn 25 lần – Nội tại duy nhất.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)\nSăn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất",
+      "attributes": {
+        "max_health": 1200.0,
+        "cooldown_reduction": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "973a033dda8283569e3431477236abd07ec72ae63cb0bfcd9a3f7e6692fbfd83"
+    },
+    {
+      "external_key": "guom-loki",
+      "slug": "guom-loki",
+      "name": "Gươm Loki",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e0c0df64d8c799425e512a41035121625875eeb337a461.png",
+      "category_id": "23",
+      "category": "Đi rừng",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2000,
+      "description": "+150 Công phép\n+5% Giảm hồi chiêu\n+7% Tốc chạy\nNhận hiệu ứng tê tái\nLùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 0.8% tốc đánh và 0.2% hút máu, tối đa cộng dồn 25 lần – Nội tại duy nhất.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)\nSăn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất\nSức mạnh nguyên tố: Sau khi tung chiêu, đòn đánh thường tiếp theo gây thêm (35% công vật lý+50% công phép) sát thương phép; 2 giây hồi chiêu.",
+      "attributes": {
+        "magic_power": 150.0,
+        "attack_speed": 0.8,
+        "lifesteal": 0.2,
+        "movement_speed": 7.0,
+        "cooldown_reduction": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "d55453286f06d3b844512e8db2126688c11c832063c79e2b29b9fdb6b54e132d"
+    },
+    {
+      "external_key": "cung-gio-loc",
+      "slug": "cung-gio-loc",
+      "name": "Cung Gió Lốc",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3e4d4da0fbaef18cc27b280233abd8585ac48ccdb8a361.png",
+      "category_id": "23",
+      "category": "Đi rừng",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+12% Tốc đánh\nNhận hiệu ứng tê tái\nLùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 0.8% tốc đánh và 0.2% hút máu, tối đa cộng dồn 15 lần – Nội tại duy nhất.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)\nSăn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất",
+      "attributes": {
+        "attack_speed": 12.0,
+        "lifesteal": 0.2
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "a10fdf6e6b26d7e558dc2d13bd4a878936c9242e59d520d54a5e72897f58d004"
+    },
+    {
+      "external_key": "ao-truy-kich",
+      "slug": "ao-truy-kich",
+      "name": "Đao truy kích",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/65a0e3833daa8a27a33a72e7e4e7494e5875ed8cb51931.png",
+      "category_id": "23",
+      "category": "Đi rừng",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+25 Công vật lý\nNhận hiệu ứng tê tái\nLùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 2 công vật lý và 0.2% giảm hồi chiêu, tối đa cộng dồn 15 lần – Nội tại duy nhất.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)\nSăn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 25.0,
+        "cooldown_reduction": 0.2
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0c5050fa107cda4a965ea6495b58cc9cc12ad915516ad003caca4d14924ba4c6"
+    },
+    {
+      "external_key": "riu-gnoll",
+      "slug": "riu-gnoll",
+      "name": "Rìu Gnoll",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/059cb0940752f504cfa9c07a88362cf45875ed3ea79971.png",
+      "category_id": "23",
+      "category": "Đi rừng",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+400 Máu tối đa\nNhận hiệu ứng tê tái\nHỏa diệm: Gây 50 – 78 sát thương phép mỗi giây lên những kẻ địch cạnh bên (tăng 100% sát thương lên quái và lính) – Nội tại duy nhất\nLùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 25 máu tối đa và 0.2% giảm hồi chiêu, tối đa cộng dồn 15 lần – Nội tại duy nhất.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)\nSăn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất",
+      "attributes": {
+        "max_health": 400.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "8fcfe89492d52c6689f59e453cfab5b77d9b7b7bdb45b75c7319a0ff6a27c9fb"
+    },
+    {
+      "external_key": "guom-hien-te",
+      "slug": "guom-hien-te",
+      "name": "Gươm hiến tế",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13ecad971cf548f39cbf6d46243665725875ecda3ef671.png",
+      "category_id": "23",
+      "category": "Đi rừng",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 700,
+      "description": "+40 Công phép\nNhận hiệu ứng tê tái\nLùng diệt – Bản thân hoặc đồng đội lân cận hạ mỗi con quái rừng giúp tăng 4 công phép và 0.2% giảm hồi chiêu, tối đa cộng dồn 15 lần – Nội tại duy nhất.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)\nSăn bắt: Đòn đánh hoặc tung chiêu sẽ gây thêm 60 – 172 sát thương chuẩn lên quái rừng mỗi 0.5 giây, kéo dài 2 giây. Nhận thêm 35% kinh nghiệm khi tiêu diệt quái rừng – Nội tại duy nhất",
+      "attributes": {
+        "magic_power": 40.0,
+        "cooldown_reduction": 0.2
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0baaff0b0509a34552fe679d8d080f31d57de9b51ebbb2f415458090f2dba451"
+    },
+    {
+      "external_key": "rua-tho-san",
+      "slug": "rua-tho-san",
+      "name": "Rựa thợ săn",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconfaba84adb480e565d9815a2b898bb8995bcd9218e940c1.jpg",
+      "category_id": "23",
+      "category": "Đi rừng",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 250,
+      "description": "Khi trang bị đi rừng được nâng cấp, Trừng trị sẽ trở thành Tê Cóng. Tê Cóng có thể vừa gây sát thương vừa làm chậm tốc chạy của tướng địch.\nNội tại – Khiêm nhường: Khi xung quanh có đồng đội, họ sẽ nhận toàn bộ vàng và EXP từ lính, bản thân chỉ nhận 50% vàng và EXP. Hiệu ứng này sẽ bị xóa vào phút thứ 4. Sát thương lên lính giảm 25% (cũng xóa vào phút thứ 4)\nThợ săn: Hạ quái rừng giúp tăng 20% EXP. Đòn đánh thường/chiêu trúng đích sẽ gây 50-120 ST chuẩn lên quái rừng mỗi 0.5s, kéo dài 2s – Nội tại duy nhất",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "dfa57aa88c22f17a2b4e492cd932ba07891441216bac52614e87a90b99f61faf"
+    },
+    {
+      "external_key": "xa-nhat-cung",
+      "slug": "xa-nhat-cung",
+      "name": "Xạ Nhật Cung",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon6bc7c27ebfd950b0fe16493db552c983658d55e7787b81.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2000,
+      "description": "+30% Tốc đánh\n+10% Tỷ lệ chí mạng\n+ 5% Tốc chạy\nNgắm Chuẩn: Đòn đánh thường gây thêm 50 sát thương vật lý (tăng gấp đôi với tướng đánh xa, hồi chiêu: 0,35 giây) – Nội tại duy nhất\nXạ Nhật: Tăng phạm vi tầm bắn của đòn đánh thường thêm 150 và 20% tốc chạy trong 5 giây (chỉ có tác dụng với tướng đánh xa). Thời gian hồi chiêu: 60 giây – Kích hoạt duy nhất",
+      "attributes": {
+        "attack_speed": 30.0,
+        "critical_chance": 10.0,
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f88cdaed96740bac577fffb19a83cb5d375a3b29fb669754ae972ae7bc1c0bae"
+    },
+    {
+      "external_key": "thuong-xuyen-pha",
+      "slug": "thuong-xuyen-pha",
+      "name": "Thương Xuyên Phá",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b3d3556b6bd3eaf5e90b966647b6d8a75976bb54845d91.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1900,
+      "description": "+110 Công vật lý\nKhinh công: Rời khỏi trạng thái giao tranh giúp tăng 10% Tốc chạy – Nội tại duy nhất\nNghiền ép: Tăng 40 – 180 chỉ số xuyên giáp – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 110.0,
+        "movement_speed": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "fb67304876e29e8a9047dbb0c765bd81bb2849736c761122d0833183ecfd48ba"
+    },
+    {
+      "external_key": "vuot-hung-tan",
+      "slug": "vuot-hung-tan",
+      "name": "Vuốt Hung Tàn",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c65bf282a71890970ac6880b773460945965d91139a151.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1960,
+      "description": "+30% Tốc đánh\n+20% Tỷ lệ chí mạng\n+5% Tốc chạy\nHung bạo: Các đòn đánh thường trúng đích giúp tăng tốc đánh thêm 10%, kéo dài 2 giây, cộng dồn tối đa 5 lần – Nội tại duy nhất",
+      "attributes": {
+        "attack_speed": 30.0,
+        "critical_chance": 20.0,
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "819cd960c4ce4537c29d402b91f96856612ade2755fbd686c59980513496fafe"
+    },
+    {
+      "external_key": "cung-ta-ma",
+      "slug": "cung-ta-ma",
+      "name": "Cung tà ma",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconcaa38dc0fdd84ce09ed77e83e1cfb2eb5ef414c91c8131.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2250,
+      "description": "+90 Công vật lý\n+10% Hút máu\n+10% Tỷ lệ chí mạng\nHấp huyết: tăng 60% hút máu trong 3 giây; 60 giây hồi chiêu (chỉ hữu hiệu với tướng đánh xa) – Kích hoạt duy nhất",
+      "attributes": {
+        "physical_attack": 90.0,
+        "critical_chance": 10.0,
+        "lifesteal": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f50e3a4d4d1a9ca5be7b022b8da1b23950a41f1bb14f12e01488b14d05f459e1"
+    },
+    {
+      "external_key": "thuong-khung-kiem",
+      "slug": "thuong-khung-kiem",
+      "name": "Thương khung kiếm",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6db8867b63ea27f159d706fc6a85783e658d54fc54c591.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2120,
+      "description": "+100 Công vật lý\n+10% Giảm hồi chiêu\n+ 500 Máu tối đa\nBất khuất: Nhận 40% miễn thương trong 2 giây, có thể dùng khi bị khống chế. Thời gian hồi chiêu: 90 giây – Kích hoạt duy nhất\nTrì trệ: Tung chiêu trúng sẽ làm chậm tướng địch đầu tiên 30% và giảm 20% sát thương hắn gây ra trong 3 giây. Thời gian hồi chiêu: 8 giây – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 100.0,
+        "max_health": 500.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "22baaaa74204a2c982f0109ee27376d9395709806a5193ea47f50a3551d7ad2e"
+    },
+    {
+      "external_key": "nanh-fenrir",
+      "slug": "nanh-fenrir",
+      "name": "Nanh Fenrir",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7ccbeb5a9d92d6616b38fb9f8a6d697f583eb0099ad9e1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2800,
+      "description": "+180 công vật lý\n+5% giảm hồi chiêu\nChinh Phạt: Khi máu của mục tiêu xuống dưới 50% sẽ chịu thêm 30% sát thương – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 180.0,
+        "cooldown_reduction": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "d7270d343a7f70892f41659e9acc1b8113a79a652a16ed42a932d0a24c5792af"
+    },
+    {
+      "external_key": "song-ao-bao-tap",
+      "slug": "song-ao-bao-tap",
+      "name": "Song đao bão táp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/42d4233ea5d7ed2db0af6ae09c5686d9583eafd6a6f201.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1920,
+      "description": "+35% Tốc đánh\n+25% Tỷ lệ chí mạng\n+7% Tốc chạy\nCuồng phong: Tăng 35% Kháng hiệu ứng trong 2 giây sau khi đánh chí mạng – Nội tại duy nhất (kháng hiệu ứng là giảm thời gian chịu các loại khống chế)",
+      "attributes": {
+        "attack_speed": 35.0,
+        "critical_chance": 25.0,
+        "movement_speed": 7.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "d485dc2deeb5df87e7f327ef47aadd377586e1fc4cc9d2a47ba1c9e182fb0667"
+    },
+    {
+      "external_key": "guom-sam-set",
+      "slug": "guom-sam-set",
+      "name": "Gươm sấm sét",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f2ae054a4509ca5bfbf6c1246d6a0e7d583eaf9d711da1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1840,
+      "description": "+35% Tốc đánh\n+8% Tốc chạy\nNội tại duy nhất – Chớp giật: Đòn đánh thường gây thêm 45-87 sát thương phép. Mỗi 3 đòn đánh thường sẽ phóng ra một chùm sét gây 150-430 sát thương phép lên 1 mục tiêu và lan ra các mục tiêu khác trong phạm vi. Nội tại duy nhất (Hồi chiêu: 0.3s).",
+      "attributes": {
+        "attack_speed": 35.0,
+        "movement_speed": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0a9507283350422e3ff84d7be2273b42a2328a378be02c88433c70ae1f1449ea"
+    },
+    {
+      "external_key": "phuc-hop-kiem",
+      "slug": "phuc-hop-kiem",
+      "name": "Phức hợp kiếm",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2ed0a1b9762b0eaed6ef8c26f69fabb0583eaf5e888731.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2150,
+      "description": "+70 Công vật lý\n+15% Tốc đánh\n+10% Giảm hồi chiêu\n+600 Máu tối đa\nCuồng bạo: Đòn đánh thường tăng 10% Tốc chạy – Nội tại duy nhất\nSức mạnh nguyên tố: Trong vòng 5 giây sau khi tung chiêu, đòn đánh thường tiếp theo của tướng gây thêm 100% công vật lý sát thương vật lý, 2 giây hồi chiêu – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 70.0,
+        "max_health": 600.0,
+        "attack_speed": 15.0,
+        "movement_speed": 10.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f46edeb56c800335b8ef90fd0d5a34eb47199e0c5e9563cc822814e7ae897dc0"
+    },
+    {
+      "external_key": "quy-kiem",
+      "slug": "quy-kiem",
+      "name": "Quỷ Kiếm",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/dac326474d6d7eb4b8f77074edb8b8cf583eaefc61eff1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 1800,
+      "description": "+100 Công vật lý\n+25% Hút máu\n+600 Máu tối đa\nNội tại duy nhất – Huyết yến: Khi máu bản thân dưới 30%, trong 5 giây sẽ hồi tổng cộng 400 – 610 máu. Thời gian hồi chiêu: 20 giây.",
+      "attributes": {
+        "physical_attack": 100.0,
+        "max_health": 600.0,
+        "lifesteal": 25.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f05ca5b5e2accd08517a30c214084c7e3bf277d99f86b0b682ac4a99e44904d4"
+    },
+    {
+      "external_key": "kiem-muramasa",
+      "slug": "kiem-muramasa",
+      "name": "Kiếm Muramasa",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icone607457dda37172782dc9180e3cd036a59eebe79887cd1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2020,
+      "description": "+80 Công vật lý\n+10% Giảm hồi chiêu\n+500 Máu tối đa\nNội tại duy nhất – Xuyên thấu: +35% xuyên giáp",
+      "attributes": {
+        "physical_attack": 80.0,
+        "max_health": 500.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "93cd3d3b9dec9ee368b203174c32fe4f1091523dcbdea282c2c34f065e52c911"
+    },
+    {
+      "external_key": "thanh-kiem",
+      "slug": "thanh-kiem",
+      "name": "Thánh kiếm",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon48a62735ee508f6a920e823fafd9b21159eebea8e613f1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2120,
+      "description": "+100 Công vật lý\n+25% Tỷ lệ chí mạng – Nội tại Duy nhất\nThánh kiếm: Sau khi đánh chí mạng giúp tăng (3 – 45) tốc chạy trong 1.5 giây (chỉ hữu hiệu khi dùng bởi tướng đánh xa) – Nội tại duy nhất\nSát thương chí mạng tăng 40% – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 100.0,
+        "critical_chance": 25.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "79c763fff894d1529dd82bab064a657a7679662660899f34dec3866b70bc7ca1"
+    },
+    {
+      "external_key": "kiem-fafnir",
+      "slug": "kiem-fafnir",
+      "name": "Kiếm Fafnir",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/96fd7b63339a3f0e510781f375eb356d583ead06b76221.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2040,
+      "description": "+60 Công vật lý\n+30% Tốc đánh\n+10% Hút máu\nHơi thở rồng: Đòn đánh thường gây thêm sát thương vật lý tương đương 8% Máu hiện tại của mục tiêu. Hồi chiêu 0.3 giây – tối đa 80 lên quái rừng – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 60.0,
+        "attack_speed": 30.0,
+        "lifesteal": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ac56058110f70913d24a9ff1362f9d2b2653b454572f72fbc06d035c90b08466"
+    },
+    {
+      "external_key": "thuong-longinus",
+      "slug": "thuong-longinus",
+      "name": "Thương Longinus",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e31c3c90f650c04ebdb29ea2ca200265583eacda186ed1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "27",
+      "level": "Cấp 3",
+      "cost": 2030,
+      "description": "+80 Công vật lý\n+15% Giảm hồi chiêu\n+500 Máu tối đa\n+60 Xuyên giáp – Phá giáp – Nội tại duy nhất\nToái giáp: Gây sát thương sẽ trừ 6% Giáp của nạn nhân, cộng dồn lên đến 4 lần, kéo dài 5 giây (hồi chiêu 0.3 giây) – Nội tại duy nhất",
+      "attributes": {
+        "armor_pierce": 60.0,
+        "physical_attack": 80.0,
+        "max_health": 500.0,
+        "cooldown_reduction": 15.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b4fd97e0616bb2181de02d8c8011f7842ac8b2fd05856e0c4a9a04e79aa461c4"
+    },
+    {
+      "external_key": "ao-truy-hon",
+      "slug": "ao-truy-hon",
+      "name": "Đao Truy Hồn",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon39afcfcf7b6f28bebbf64b598f7f586b59f0056b0a4811.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 1900,
+      "description": "+80 Công vật lý\n+ 800 Máu tối đa\n+ 10% Giảm hồi chiêu\nTróc nã: Đòn đánh thường/ tung chiêu gây sát thương sẽ khiến mục tiêu bị giảm 40% hiệu quả hồi máu, kéo dài 3 giây – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 80.0,
+        "max_health": 800.0,
+        "cooldown_reduction": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "23988eda55b50905fa96e466efcc72c84820a04caf637b6538a902eb8f2a3a4a"
+    },
+    {
+      "external_key": "liem-oat-menh",
+      "slug": "liem-oat-menh",
+      "name": "Liềm Đoạt Mệnh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6e4830c854d7f71dd8ad51b25d9abffd5965d8cb4027d1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 2000,
+      "description": "+75 Công vật lý\n+15% Tốc đánh\n+500 Máu tối đa\nNội tại duy nhất – Thần linh can thiệp: Miễn nhiễm sát thương chí tử và vô địch 0.75s đồng thời tăng 25% tốc chạy & 25% tốc đánh. Sau 4 phút mang theo, thời gian hiệu ứng vô địch sẽ kéo dài đến 1.5s, hồi chiêu 120s.",
+      "attributes": {
+        "physical_attack": 75.0,
+        "max_health": 500.0,
+        "attack_speed": 15.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "147f7b811737013622e9e46d9d45bb71ff5f7b5941b8097bec94f30944eb1e4b"
+    },
+    {
+      "external_key": "guom-uriel",
+      "slug": "guom-uriel",
+      "name": "Gươm Uriel",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icone8e8d84ac94fa585c3a9661cce80fbf159eebe5b292891.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 2000,
+      "description": "+80 Công vật lý\n+25% Tốc đánh\n+200 Giáp phép\nNội tại duy nhất – Bảo hộ ma pháp: Khi máu tướng xuống dưới 40%, Phong Ấn Uriel giúp tăng lá chắn trong 5 giây giúp chặn 600 – 2000 sát thương phép, +25% kháng hiệu ứng, tăng 30% tốc chạy trong 5 giây, 75 giây hồi chiêu.\nNội tại duy nhất – Cuồng bạo: Đòn đánh thường tăng 10% tốc chạy.",
+      "attributes": {
+        "physical_attack": 80.0,
+        "magic_defense": 200.0,
+        "attack_speed": 25.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "3e08a2a70b4685daf7c37348cc8487da95b6a9eb070500c15887afda5fe03b0f"
+    },
+    {
+      "external_key": "phi-tieu",
+      "slug": "phi-tieu",
+      "name": "Phi tiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2621c9b1fed23acd4be27b91dfa78e38583eac94287361.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 750,
+      "description": "+20% Tốc đánh\nĐiểm yếu: Đòn đánh thường sẽ được tăng sát thương vật lý thêm 21 – 35 với tướng đánh gần hoặc 42 – 70 với tướng đánh xa – Nội tại duy nhất. Hồi chiêu 0.3 giây",
+      "attributes": {
+        "attack_speed": 20.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0f12bd9d746bd38ac3d56c0da40e6d3fa233e48b5ab285948576a86117502951"
+    },
+    {
+      "external_key": "thuong-au-si",
+      "slug": "thuong-au-si",
+      "name": "Thương đấu sĩ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/90f53ba831f13f5a01df70376b561701583eabc0c7d101.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 830,
+      "description": "+50 Công vật lý\nPhá giáp: +60 Xuyên giáp – Nội tại duy nhất",
+      "attributes": {
+        "armor_pierce": 60.0,
+        "physical_attack": 50.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "649bb1252edc5c84d7da397cc5d618c46756ea7a6233a2a0bc6742724c1b096f"
+    },
+    {
+      "external_key": "song-ao",
+      "slug": "song-ao",
+      "name": "Song đao",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a1f25b14e89dff8b8512abda77f54c3c583eab9aa21001.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 780,
+      "description": "+25% Tốc đánh\n+5% Tốc chạy",
+      "attributes": {
+        "attack_speed": 25.0,
+        "movement_speed": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "c02e68f923eba77fa40744487e8cdf423a7051c4d7fa761a7cf29cffbe71a3a0"
+    },
+    {
+      "external_key": "chuy-co",
+      "slug": "chuy-co",
+      "name": "Chùy cổ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/184d423b3a6e763b0238f31b0f9b28f5583eab794ea9b1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "26",
+      "level": "Cấp 2",
+      "cost": 740,
+      "description": "+25 Công vật lý\n+15% Tốc đánh\nCuồng bạo: Đòn đánh thường tăng 10% Tốc chạy – Nội tại duy nhất",
+      "attributes": {
+        "physical_attack": 25.0,
+        "attack_speed": 15.0,
+        "movement_speed": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e7f88cb435278e246fc91ae7f4b2a3b13542deb26f6e5b1251c1802641c318c2"
+    },
+    {
+      "external_key": "kiem-dai",
+      "slug": "kiem-dai",
+      "name": "Kiếm dài",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/05beffe85dbc5379e596f4719db29918583eab4bd2b8b1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 910,
+      "description": "+80 Công vật lý",
+      "attributes": {
+        "physical_attack": 80.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "464064643db6258af08b728ad96e51ab75017b56e94b869028a2be664a75ba5e"
+    },
+    {
+      "external_key": "chuy-xich",
+      "slug": "chuy-xich",
+      "name": "Chùy xích",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a888ca6d4b74729819ffa78263621f7c583eab330ef401.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 450,
+      "description": "+40 Công vật lý",
+      "attributes": {
+        "physical_attack": 40.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "3d5ba556dd80a7062515d915ec73aeec2c8996d17da1bee8d107df79560f6be8"
+    },
+    {
+      "external_key": "chuy-mau",
+      "slug": "chuy-mau",
+      "name": "Chùy máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon3b486c0c20f8e67265b3ccd88aa0cc615ef413d98e41b1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 410,
+      "description": "+10 Công vật lý\n+8% Hút máu",
+      "attributes": {
+        "physical_attack": 10.0,
+        "lifesteal": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "29729353f5c97547f78ae9cb408c00d4f4f6b70c046cde21d390df9e42180231"
+    },
+    {
+      "external_key": "gang-tay",
+      "slug": "gang-tay",
+      "name": "Găng tay",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconad6ef58a9c119afbe9fce74b3025b1c95ef413c1a087b1.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 300,
+      "description": "+8% Tỷ lệ chí mạng",
+      "attributes": {
+        "critical_chance": 8.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "66daa25c35d8eadd7e2c78b2cc5495e96ed06fa5315dd64a5332498235b27e1e"
+    },
+    {
+      "external_key": "dao-gam",
+      "slug": "dao-gam",
+      "name": "Dao găm",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d0892f500e089e6e24d02a65ba5fe048583eaaa57aa961.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 290,
+      "description": "+10% Tốc đánh",
+      "attributes": {
+        "attack_speed": 10.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "c763f6cf0561ff5d71709f53dcb967c0dfb448d905e3b82adb15bfeb5837ab81"
+    },
+    {
+      "external_key": "kiem-ngan",
+      "slug": "kiem-ngan",
+      "name": "Kiếm ngắn",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon2e47616ebfaf6569b90f705b86600dc55ef41367e43541.png",
+      "category_id": "19",
+      "category": "Công",
+      "level_id": "25",
+      "level": "Cấp 1",
+      "cost": 250,
+      "description": "+20 Công vật lý",
+      "attributes": {
+        "physical_attack": 20.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/trang-bi/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "3eabce90fd6f33613c85bf571f2e2137bc8abcc8f557918b5abbd2f522957fe8"
+    }
+  ],
+  "runes": [
+    {
+      "external_key": "xanh-ii-giap-phep",
+      "slug": "xanh-ii-giap-phep",
+      "name": "Xanh II Giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/985ceb215d7cfd963391472001d2e1735dbab2663c1391.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Giáp phép +5.6",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ff557257995340b70ea9135d9eac301645ebb09c216b26a119793b222dbab954"
+    },
+    {
+      "external_key": "xanh-i-hoi-chieu",
+      "slug": "xanh-i-hoi-chieu",
+      "name": "Xanh I Hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/386c2bec6d867442d6b871e86c6c31bd5dbbaed5b55d91.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Giảm hồi chiêu +0.3%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "20403c4ada0ae8db243825ececfc1fb232eff63fc1fda5fde8535a035c004974"
+    },
+    {
+      "external_key": "xanh-ii-hoi-chieu",
+      "slug": "xanh-ii-hoi-chieu",
+      "name": "Xanh II Hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d5f5c6849fef95e195bd8a3873cf24d45dbab3191e9f11.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Giảm hồi chiêu +0.6%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f3827bccac7bf003e3ce015a3f31d5e1a25ebbf0ad793ac68f9f242bd73f9b4f"
+    },
+    {
+      "external_key": "xanh-iii-giap-phep",
+      "slug": "xanh-iii-giap-phep",
+      "name": "Xanh III Giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/cb214db34a5200d9a9babc902dbdb0e75dbaa86803e9a1.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Giáp phép +9",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "6f18fbb08b68d0e97f09ac6410b40ad9e1fb4ccc221f607c0f67e74bca33a1eb"
+    },
+    {
+      "external_key": "xanh-iii-giam-hoi-chieu",
+      "slug": "xanh-iii-giam-hoi-chieu",
+      "name": "Xanh III Giảm hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5521795176fd60028f7dd656d1f21f765dbaa958685601.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Giảm hồi chiêu +1%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "6a268359cee10ce06863b8e06ee7bdd660ea73fe68065cbd7c98bae042c78eab"
+    },
+    {
+      "external_key": "xanh-i-giap",
+      "slug": "xanh-i-giap",
+      "name": "Xanh I Giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8af725f3a91ccb58ec7776ffb26cc5135dbbae1697dd91.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Giáp +2.7",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "06ce75e23a739a154102384b3be41573d4ea6105b20cbdfddbb5c262ab6c8040"
+    },
+    {
+      "external_key": "xanh-ii-giap",
+      "slug": "xanh-ii-giap",
+      "name": "Xanh II Giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9f5f238581db9d3fd895e5cb165d6e705dbab1fbbb7a31.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Giáp +5.6",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "cf95516d7fe7cc276e680fd4a6126a424eb385f93fc4c492a883e66d16dceced"
+    },
+    {
+      "external_key": "xanh-iii-giap",
+      "slug": "xanh-iii-giap",
+      "name": "Xanh III Giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6b20648969855f29d43768fcc0c80e6b5dbaa81ec0b251.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Giáp +9",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "71123590f48577ea390d352befcf6da2567ced3e27330453ccc0558440ee487a"
+    },
+    {
+      "external_key": "xanh-i-giap-phep",
+      "slug": "xanh-i-giap-phep",
+      "name": "Xanh I Giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fe9e851f7cc0cb1d5096b930564619bc5dbbae57c8f841.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "71946b620bfb290271c7f10bd522470f59db619567c5af775ea780eb3769cf6e"
+    },
+    {
+      "external_key": "xanh-i-mau-hoi-chieu",
+      "slug": "xanh-i-mau-hoi-chieu",
+      "name": "Xanh I Máu/Hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/aa69137cc61718eb9c4573514c6c75005dbbae423f5851.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "28b613e07a52afa4f475cea40eed131aa71c8b01eb0bd9ca6bcb689e335d777c"
+    },
+    {
+      "external_key": "xanh-i-giap-giap-phep-hoi-chieu",
+      "slug": "xanh-i-giap-giap-phep-hoi-chieu",
+      "name": "Xanh I Giáp/Giáp phép/Hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6988b8a5ba9df6f88775c84dfb3a3f855dbbaf0abb9971.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Giáp +0.8 Giáp phép +0.8 Giảm hồi chiêu +0.2%",
+      "attributes": {
+        "magic_defense": 0.8
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "a2b751cc96d6907cb4461451b2d363dc8cce391de14b032ca219f9ff1859f12f"
+    },
+    {
+      "external_key": "xanh-ii-giap-giap-phep-hoi-chieu",
+      "slug": "xanh-ii-giap-giap-phep-hoi-chieu",
+      "name": "Xanh II Giáp/Giáp phép/Hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d0a527ff938b21e040bec205c62c44615dbab35b1f4a71.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Giáp +1.7 Giáp phép +1.7 Giảm hồi chiêu +0.4%",
+      "attributes": {
+        "magic_defense": 1.7
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0c83983a46d961c580b12b08b62403c85eeda5dda8c310e09b30b5ac78bc7a04"
+    },
+    {
+      "external_key": "xanh-iii-giap-giap-phep-hoi-chieu",
+      "slug": "xanh-iii-giap-giap-phep-hoi-chieu",
+      "name": "Xanh III Giáp/Giáp phép/Hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b4428615b8a98fc4fdefbe2f0f53a5015dbaa976c21481.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Giáp +2.7 Giáp phép +2.7 Giảm hồi chiêu +0.6%",
+      "attributes": {
+        "magic_defense": 2.7
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "c725308ef14ccd91803085013199b128c0f64bd33f7f4a51004fc34d448c1b22"
+    },
+    {
+      "external_key": "xanh-iii-toc-anh-xuyen-giap-phep",
+      "slug": "xanh-iii-toc-anh-xuyen-giap-phep",
+      "name": "Xanh III Tốc đánh/Xuyên giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1b320435df09ec65266cd98d0baf7c9b5dbaa94271e901.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Tốc đánh +0.6% Xuyên giáp phép +6.4",
+      "attributes": {
+        "magic_pierce": 0.6
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f692759065e7a83ff390b3ee9626965ca8e259a8331a9e42ae578936f0eb3613"
+    },
+    {
+      "external_key": "xanh-ii-toc-anh-xuyen-giap-phep",
+      "slug": "xanh-ii-toc-anh-xuyen-giap-phep",
+      "name": "Xanh II Tốc đánh/Xuyên giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/64b65a13bc699f298500694f1324acb65dbab2f68adb21.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Xuyên giáp phép +4 Tốc đánh +0.4%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "16e4d197cc45a1e9a058c419c76a02414e1fd629ec77879e23ad3b61b48465b8"
+    },
+    {
+      "external_key": "xanh-i-cong-vat-ly-xuyen-giap",
+      "slug": "xanh-i-cong-vat-ly-xuyen-giap",
+      "name": "Xanh I Công vật lý/Xuyên giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/03694dbaebf12d55cec4948c906a478e5dbbae939a8191.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công vật lý +0.3 Xuyên giáp +1.9",
+      "attributes": {
+        "armor_pierce": 0.3
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "4d4a4c08d11d25f98bc14872dbc61b6f445e57dd8a437fd8bad7cdde839177ee"
+    },
+    {
+      "external_key": "xanh-iii-cong-vat-ly-xuyen-giap",
+      "slug": "xanh-iii-cong-vat-ly-xuyen-giap",
+      "name": "Xanh III Công vật lý/Xuyên giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6da9d4a9710dd6767b2fb01946b034aa5dbaa92a495731.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công vật lý +0.9 Xuyên giáp +6.4",
+      "attributes": {
+        "armor_pierce": 0.9
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "c14d11f6df42121ba966cf3f1361a5fb93cb7194e54c71a2a2be9491af49112f"
+    },
+    {
+      "external_key": "xanh-i-hut-phep-giap",
+      "slug": "xanh-i-hut-phep-giap",
+      "name": "Xanh I Hút phép/Giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e9e258be25648bfd647662edc46e3d465dbbaeeba6be91.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Giáp +1.8 Hút máu phép +0.2%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "9df8df0c887d6037dec85f9a7ba671b400ef80cefe6475c3fdbd5dc345893c22"
+    },
+    {
+      "external_key": "xanh-ii-hut-phep-giap",
+      "slug": "xanh-ii-hut-phep-giap",
+      "name": "Xanh II Hút phép/Giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/82fcfb5751450e0b606d3e61b67ab0af5dbab33969a2c1.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Giáp +3.7 Hút máu phép +0.4%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "d43b7c94d485dee4251584c44460d143bacfdb17e1d89effbdcaac09534b06d8"
+    },
+    {
+      "external_key": "xanh-ii-cong-vat-ly-xuyen-giap",
+      "slug": "xanh-ii-cong-vat-ly-xuyen-giap",
+      "name": "Xanh II Công vật lý/Xuyên giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/66cfc42d8ea34d60100e4501efcfa8a05dbab2c3b30381.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công vật lý +0.6 Xuyên giáp +4",
+      "attributes": {
+        "armor_pierce": 0.6
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "cd6c2ab885e55f6ed6f9c1885e34eb60805b83d4043713863392aab2c3c638d8"
+    },
+    {
+      "external_key": "xanh-iii-hut-mau-phep-giap",
+      "slug": "xanh-iii-hut-mau-phep-giap",
+      "name": "Xanh III Hút máu phép/Giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c3b7f78f7b25c68bd99b3ed153d5f0975dbaa966e12861.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Hút máu phép +0.7% Giáp +5.9",
+      "attributes": {
+        "armor": 0.7
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "43ea2a8414addab69d794e575f60e129b0d1a27d1850fe402797c0f03d7216c4"
+    },
+    {
+      "external_key": "xanh-i-cong-phep-hoi-chieu",
+      "slug": "xanh-i-cong-phep-hoi-chieu",
+      "name": "Xanh I Công phép/Hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7b756949e4fb32ca76ac11c2da5f51645dbbae746d6a21.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công phép +0.7 Giảm hồi chiêu +0.2%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "6964b8d862266b91a4ec1dac8ad41e54cd3cac03240034b84248ccebb311c555"
+    },
+    {
+      "external_key": "xanh-ii-cong-phep-hoi-chieu",
+      "slug": "xanh-ii-cong-phep-hoi-chieu",
+      "name": "Xanh II Công phép/Hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/dc1170fed300e7da9fc97d9d7dc73d2f5dbab293008ac1.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công phép +1.5 Giảm hồi chiêu +0.4%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "761ed21b52a73d1a8782be1074a0ef882f0f7c3305bd37df4d549e74aa9d017a"
+    },
+    {
+      "external_key": "xanh-iii-cong-phep-giam-hoi-chieu",
+      "slug": "xanh-iii-cong-phep-giam-hoi-chieu",
+      "name": "Xanh III Công phép/Giảm hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3a8c7879426abc487d4bb8f96972617f5dbaa88b65a2f1.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công phép +2.4 Giảm hồi chiêu +0.7%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "a561c008213fa851813593ac0252eb249c5ad791cdcdc29342d16fd616493fee"
+    },
+    {
+      "external_key": "xanh-i-toc-anh-xuyen-giap-phep",
+      "slug": "xanh-i-toc-anh-xuyen-giap-phep",
+      "name": "Xanh I Tốc đánh/Xuyên giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/67ada1a2e2475b7b2a408868fa400a785dbbaebaeef9a1.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Xuyên giáp +1.9 Tốc đánh +0.2%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "9d02d19dbb3c2a8ed4dd0331b9a9f64737993daace02a1833d7d85444a1eae4e"
+    },
+    {
+      "external_key": "xanh-ii-mau-hoi-chieu",
+      "slug": "xanh-ii-mau-hoi-chieu",
+      "name": "Xanh II Máu/Hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b104d5f79f9bd9117d2d088de8cee3025dbab24aa33c61.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Máu tối đa +23.4 Giảm hồi chiêu +0.4%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "c072dce71d2382e44dbd9c77d5dff34f2ca213227ae2825a2bd6373801c9bb3a"
+    },
+    {
+      "external_key": "xanh-iii-mau-toi-a-giam-hoi-chieu",
+      "slug": "xanh-iii-mau-toi-a-giam-hoi-chieu",
+      "name": "Xanh III Máu tối đa/Giám hồi chiêu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9af4a3d03987d8645650b777c8454afe5dbaa851659231.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Máu tối đa +37.5 Giảm hồi chiêu +0.6%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "708db2dc0a04359bbeb391d2786572c7e8d94805d256e7b9c7e5e62bca232e27"
+    },
+    {
+      "external_key": "xanh-i-giap-giap-phep",
+      "slug": "xanh-i-giap-giap-phep",
+      "name": "Xanh I Giáp/Giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ad5dd08882f61cfd42d5295a3029106d5dbbae2c07f2d1.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Giáp +1.5 Giáp phép +1.5",
+      "attributes": {
+        "magic_defense": 1.5
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ce531078c7f02c5e321ba8891de35176396869d4051024b98db10027c32de7ae"
+    },
+    {
+      "external_key": "xanh-ii-giap-giap-phep",
+      "slug": "xanh-ii-giap-giap-phep",
+      "name": "Xanh II Giáp/Giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c38f2cdb006a26d996dd733b2195b9295dbab22660ec81.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Giáp +3.1 Giáp phép 3.1",
+      "attributes": {
+        "magic_defense": 3.1
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b8c79810270403f08d6ac341c6d1fb34d8f96c5aa5d07a0015b3d9a98488fa9d"
+    },
+    {
+      "external_key": "xanh-iii-giap-giap-phep",
+      "slug": "xanh-iii-giap-giap-phep",
+      "name": "Xanh III Giáp/Giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7690a4b67160f80804b96d272e62f1fc5dbaa83d003c51.png",
+      "category_id": "14",
+      "category": "Xanh",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Giáp +5 Giáp phép +5",
+      "attributes": {
+        "magic_defense": 5.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "29502119f7c6ba86756009021fa7393a05ed503befcc2bb0787cdfdf660245e6"
+    },
+    {
+      "external_key": "tim-iii-toc-anh-toc-chay",
+      "slug": "tim-iii-toc-anh-toc-chay",
+      "name": "Tím III Tốc đánh/Tốc chạy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/40af8a62234d3cd119663d62b21816e15dbaa5eda06491.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Tốc đánh +1% Tốc chạy +1%",
+      "attributes": {
+        "movement_speed": 1.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "961b74d7c92141a846f2afcafa509f8c61e5e1ac7f00537f9a5eb039a026e55c"
+    },
+    {
+      "external_key": "tim-i-toc-anh-chay",
+      "slug": "tim-i-toc-anh-chay",
+      "name": "Tím I Tốc đánh/chạy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4b67bf139befd480ab2f75c958e4ce135dbbb2da4c88c1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Tốc chạy +0.3% Tốc đánh +0.3%",
+      "attributes": {
+        "attack_speed": 0.3
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b35e530adf1eee4e2b19bfa7d046d26293189e58660d4955e602dd06fc01d20b"
+    },
+    {
+      "external_key": "tim-iii-mau-toi-a-hoi-mau",
+      "slug": "tim-iii-mau-toi-a-hoi-mau",
+      "name": "Tím III Máu tối đa/Hồi máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/65754d3fbfc53c9c5ab666fa6e30083f5dbaa5a060d411.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Máu tối đa +60 Hồi máu/5s +4.5",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "574a159827f9b2e068caada18e53d5f9dddac6d3f287d4574f80dc3f9ac74cc5"
+    },
+    {
+      "external_key": "tim-iii-mau-hoi-mau-toc-chay",
+      "slug": "tim-iii-mau-hoi-mau-toc-chay",
+      "name": "Tím III Máu/Hồi máu/Tốc chạy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a84a0c2a715680f3d65d26dd6a5ecee25dbaa5d4e05211.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Máu tối đa +45 Hồi máu/5s +5.2 Tốc chạy +0.4%",
+      "attributes": {
+        "movement_speed": 5.2
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7dc1f644cef392eda97a69697c35062993c941d3bc218a5c5a3d9e42927a6470"
+    },
+    {
+      "external_key": "tim-ii-mau-hoi-mau",
+      "slug": "tim-ii-mau-hoi-mau",
+      "name": "Tím II Máu/Hồi máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/41a8342712bef214a318df110f7b51cb5dbab143a8bd71.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Máu tối đa +37.5 Hồi máu/5s +2.8",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "4f4395935134e250012068f5ec4b295a244add1d546546f9259077f319341b18"
+    },
+    {
+      "external_key": "tim-i-ty-le-chi-mang-mau",
+      "slug": "tim-i-ty-le-chi-mang-mau",
+      "name": "Tím I Tỷ lệ chí mạng/Máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/de9819b9fe743449f3c02225760ef4a45dbbb1ef1a5bb1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Máu tối đa +18 Tỷ lệ chí mạng +0.2%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f9efe2f23460a3f3613caff4a631237706432a11a2765cd8d178f07cb8c48a46"
+    },
+    {
+      "external_key": "tim-i-mau-hoi-mau",
+      "slug": "tim-i-mau-hoi-mau",
+      "name": "Tím I Máu/Hồi máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/648c9f9a32006de20e5ef7876d7deb4e5dbbb213e96861.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Máu tối đa +18 Hồi máu/5s +1.4",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "708184438c9308ac5ac9f9ebc74e290da378b16914d13996aa83485d4b600b5c"
+    },
+    {
+      "external_key": "tim-i-mau-hoi-mau-toc-chay",
+      "slug": "tim-i-mau-hoi-mau-toc-chay",
+      "name": "Tím I Máu/Hồi máu/Tốc chạy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4b0b5c6d0517d3fed9ed088a541279605dbbb2a1b4b311.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Máu tối đa +13.5 Tốc chạy +0.1% Hồi máu/5s +1.6",
+      "attributes": {
+        "movement_speed": 13.5
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "2482a0530be17a2dd7d74139f5c2a04aed09064512ca641a294e60200e65726e"
+    },
+    {
+      "external_key": "tim-iii-hut-mau-thu-phep",
+      "slug": "tim-iii-hut-mau-thu-phep",
+      "name": "Tím III Hút máu/Thủ phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/89928ff0fbb871f595dfa1e33968f19b5dbaa5b7292241.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Hút máu +1% Giáp phép +4.1",
+      "attributes": {
+        "magic_defense": 1.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7cc26e25b9db82809d95e35240929f4385db4bde6e2384d95840d65de22b44ff"
+    },
+    {
+      "external_key": "tim-ii-hut-mau-giap-phep",
+      "slug": "tim-ii-hut-mau-giap-phep",
+      "name": "Tím II Hút máu/Giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/712965230d22291e5bb6994954ae58895dbab125b8e781.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Giáp phép +4.1 Hút máu +1%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "8dc576f23b3f8ddbfd56a6e4c3ef4ea666387bb3c6120766200ce438d0b3ec34"
+    },
+    {
+      "external_key": "tim-i-hut-mau-giap-phep",
+      "slug": "tim-i-hut-mau-giap-phep",
+      "name": "Tím I Hút máu/Giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5877ae05836c97b1d0e0527dd54bf8b45dbbb25da73c01.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Giáp phép +1.2 Hút máu +0.3%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b9a2c94aad352ecb8ff41bf757afcd8c99fe82ebd9800068b05577793f4e4d7e"
+    },
+    {
+      "external_key": "tim-iii-cong-vat-ly-toc-chay",
+      "slug": "tim-iii-cong-vat-ly-toc-chay",
+      "name": "Tím III Công vật lý/Tốc chạy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/98ea3d0add4cebc2c2da81d14bec9b985dbaa5e3239ff1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công vật lý +1.6 Tốc chạy +1%",
+      "attributes": {
+        "movement_speed": 1.6
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "cc6c4690f9aab26add7e4e8d464c4041b5485d13b7196adc60fc5b77e5059a58"
+    },
+    {
+      "external_key": "tim-i-cong-vat-ly-toc-chay",
+      "slug": "tim-i-cong-vat-ly-toc-chay",
+      "name": "Tím I Công vật lý/Tốc chạy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/046a41a39133bd3d631cda394b1728d55dbbb2bfb085c1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công vật lý +0.5 Tốc chạy +0.3%",
+      "attributes": {
+        "movement_speed": 0.5
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ce0bf7adff8e841d0d919d10a21923f380b2a71109b9592acdeb1ce8abb30742"
+    },
+    {
+      "external_key": "tim-iii-cong-phep-hut-mau-phep",
+      "slug": "tim-iii-cong-phep-hut-mau-phep",
+      "name": "Tím III Công phép/Hút máu phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/28657b0ffd357a22c00bd9e3c2fb94dc5dbaa5c7170071.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công phép +2.4 Hút máu phép +1%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "1581899bc470718a8cc9b498e589c704a2133e7a5075923a05db6f1e02d1af74"
+    },
+    {
+      "external_key": "tim-ii-cong-hut-mau-phep",
+      "slug": "tim-ii-cong-hut-mau-phep",
+      "name": "Tím II Công/Hút máu phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/52e8d59fb42030dc07cbbbe5bf50e33d5dbab0f86ddc21.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công phép +1.5 Hút máu phép +0.6%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "6a408a89a831306b31b2acfa0467669e40949f43e1ee33d7b7585c26c487aaa4"
+    },
+    {
+      "external_key": "tim-i-cong-hut-mau-phep",
+      "slug": "tim-i-cong-hut-mau-phep",
+      "name": "Tím I Công/Hút máu phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/99be6d28d7e977d716b0a8317995d3225dbbb27c8b28c1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công phép +0.7 Hút máu phép +0.3%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "cd30ae51991726afaa56d58de2066e747388c41410b46fce09922b784baf2133"
+    },
+    {
+      "external_key": "tim-i-mau",
+      "slug": "tim-i-mau",
+      "name": "Tím I Máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7d4fa67bdcef09f4d9402ad1b6db32845dbbb1906849f1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Máu tối đa +22.5",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "3c65c395482ba291a9c20eb1656f656f935f40f14d0ffccc83dae66cf9c654c4"
+    },
+    {
+      "external_key": "tim-ii-hut-mau-phep",
+      "slug": "tim-ii-hut-mau-phep",
+      "name": "Tím II Hút máu phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f1468c5ddc95907313c7530461bb255d5dbaafb73ac7a1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Hút máu phép +1%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "35a57fb350235bdf22ad34734b5fdd577ffc3a18a330ca15d1fe2e606543f76e"
+    },
+    {
+      "external_key": "tim-i-hut-mau-phep",
+      "slug": "tim-i-hut-mau-phep",
+      "name": "Tím I Hút máu phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/568a997b17a153ad8c0090b525a6e54c5dbbb1b1e60de1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Hút máu phép +0.5%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0eac2bc3b1a17e4cdeb9a123ab74ff8536c56a878f17f90051c5adbc6df48eaa"
+    },
+    {
+      "external_key": "tim-i-hut-mau",
+      "slug": "tim-i-hut-mau",
+      "name": "Tím I Hút máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a36965ac013c92a0f1c4e8a766c57fa15dbbb1cbe4e7a1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Hút máu +0.5%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "bc4fe1ec78142f9563b66e6203ced0b9eafb018dc780c3a791c61f3fcc7750f9"
+    },
+    {
+      "external_key": "tim-iii-hut-mau-phep",
+      "slug": "tim-iii-hut-mau-phep",
+      "name": "Tím III Hút máu phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ecf15391090639ed2609ead3646dd1575dbaa5283e1951.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Hút máu phép +1.6%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "52544a299bb5188e9c2a8840847e59de2e115e371038b78de954b265ac39a218"
+    },
+    {
+      "external_key": "tim-iii-mau-toi-a",
+      "slug": "tim-iii-mau-toi-a",
+      "name": "Tím III Máu tối đa",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b4bbd1f3e34fcb420dedbe1c84e2f8bb5dbaa5057a4121.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Máu tối đa +75",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e72a68a9043394683a1d23497178972b3dd2df65f3b71ad4cc0cf9e81cfbe21c"
+    },
+    {
+      "external_key": "tim-ii-toc-anh-chay",
+      "slug": "tim-ii-toc-anh-chay",
+      "name": "Tím II Tốc đánh/Chạy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/82f4699b7d0bc250b4dedecb866679945dbaafeb210971.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Tốc đánh +0.6% Tốc chạy +0.6%",
+      "attributes": {
+        "movement_speed": 0.6
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "293798cb4b37cc7fe9bdb2fa9b53a87887bad34b51e80dc3409d5dd8eb71dae8"
+    },
+    {
+      "external_key": "tim-ii-mau-hoi-mau-toc-chay",
+      "slug": "tim-ii-mau-hoi-mau-toc-chay",
+      "name": "Tím II Máu/Hồi máu/Tốc chạy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/962b3b3d93c93b68224b3042ae32f4e25dbaaec2db7d31.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Máu tối đa +28.1 Hồi máu/5s +3.3 Tốc chạy +0.3%",
+      "attributes": {
+        "movement_speed": 3.3
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b5d87fcad9f30265ca2fbc9d197a74a3528cdc69922d0601e734ff3d219d485d"
+    },
+    {
+      "external_key": "tim-ii-hut-mau",
+      "slug": "tim-ii-hut-mau",
+      "name": "Tím II Hút máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bedc0c7772d8eead397c00ed65a3f4fb5dbaaf8b877c21.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Hút máu +1%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "a79973be71f84e0265a9eadfcb786378d0f372d5c2303b54d9dfb75f83d9a323"
+    },
+    {
+      "external_key": "tim-ii-ty-le-chi-mang-mau",
+      "slug": "tim-ii-ty-le-chi-mang-mau",
+      "name": "Tím II Tỷ lệ chí mạng/Máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0a0569f08b3722a7948c2dc807a892c85dbaaf5e421c91.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Máu tối đa +37.5 Tỷ lệ chí mạng +0.3%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "2e197b275e31d92c376653ae7449000b79a870c2a2f00fd358c9e5bc1923e3b9"
+    },
+    {
+      "external_key": "tim-ii-cong-vat-ly-toc-chay",
+      "slug": "tim-ii-cong-vat-ly-toc-chay",
+      "name": "Tím II Công vật lý/Tốc chạy",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8eb81b52a93c271799c74c38844d8dbd5dbaae80d3ec11.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công vật lý +1 Tốc chạy +0.6%",
+      "attributes": {
+        "movement_speed": 1.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "5bcc07e0905dbd2ac2ba19caab8fdfe77f7007953f0335832950c8663db34954"
+    },
+    {
+      "external_key": "tim-ii-mau-toi-a",
+      "slug": "tim-ii-mau-toi-a",
+      "name": "Tím II Máu tối đa",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/df2175e30512446acf5d78970ec01b585dbaae4c7556d1.png",
+      "category_id": "15",
+      "category": "Tím",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Máu tối đa +46.9",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "6463374e60ef908e49e4b6d5c1c8ea415a4e5c36e17e4de7d1079b499cdf6a08"
+    },
+    {
+      "external_key": "o-iii-cong-phep",
+      "slug": "o-iii-cong-phep",
+      "name": "Đỏ III Công phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/079aa77056e962b0c8dfa87ff62355775dba6862df0c11.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công phép +5.3",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ba9c92a91643443740477f5436e426fca2375e67aaaf08ac0e200da28ca1e40e"
+    },
+    {
+      "external_key": "o-iii-cong-vat-ly",
+      "slug": "o-iii-cong-vat-ly",
+      "name": "Đỏ III Công Vật lý",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3cf57bafb768ddec440476a5c58ad2e35dbaa42b575ae1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công vật lý +3.2",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0fe1e9dfa0473c25c97d0c4599e63180f27a60d154345092545e7da6cf097470"
+    },
+    {
+      "external_key": "o-iii-cong-vat-ly-xuyen-giap",
+      "slug": "o-iii-cong-vat-ly-xuyen-giap",
+      "name": "Đỏ III Công vật lý/Xuyên giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3cf57bafb768ddec440476a5c58ad2e35dbaa42b575ae1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công vật lý +2 Xuyên giáp +3.6",
+      "attributes": {
+        "armor_pierce": 2.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "371ba693dabcaef72684389505733b1a6b775cbe04659dae519a10e20cd4d6c3"
+    },
+    {
+      "external_key": "o-iii-cong-vat-ly-hut-mau",
+      "slug": "o-iii-cong-vat-ly-hut-mau",
+      "name": "Đỏ III Công vật lý/Hút máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3cf57bafb768ddec440476a5c58ad2e35dbaa42b575ae1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công vậy lý +2.5 Hút máu +0.5%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "503543da11ad35f8fc7c5c36485f603c469f4324507c90b39dda7bb1c7b12322"
+    },
+    {
+      "external_key": "o-iii-ti-le-chi-mang-sat-thuong-chi-mang",
+      "slug": "o-iii-ti-le-chi-mang-sat-thuong-chi-mang",
+      "name": "Đỏ III Tỉ lệ chí mạng/Sát thương chí mạng",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0d0c5eafd9c5a7eefb99d8ad26ca97755dbaa4885c62c1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Tỷ lệ chí mạng +0.7% Sát thương chí mạng +3.6%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7db35c76bf07c9e814ab470c8390eba5607961715c196bf955c7bc967cba9322"
+    },
+    {
+      "external_key": "o-iii-cong-phep-xuyen-thu-phep",
+      "slug": "o-iii-cong-phep-xuyen-thu-phep",
+      "name": "Đỏ III Công phép/Xuyên thủ phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/079aa77056e962b0c8dfa87ff62355775dba6862df0c11.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công phép +4.2 Xuyên giáp phép +2.4",
+      "attributes": {
+        "magic_pierce": 4.2
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "49cddd8a6241aa75df0e227a1fe29e736d81eed0f08345584a33102e892c3882"
+    },
+    {
+      "external_key": "o-iii-cong-phep-toc-anh",
+      "slug": "o-iii-cong-phep-toc-anh",
+      "name": "Đỏ III Công phép/Tốc đánh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/079aa77056e962b0c8dfa87ff62355775dba6862df0c11.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Công phép +4.2 Tốc đánh +0.6%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "c5fe4be2619c135f9eb74585250638a1db5fa16127bbb63929c66098b95d1aa8"
+    },
+    {
+      "external_key": "o-iii-ti-le-chi-mang",
+      "slug": "o-iii-ti-le-chi-mang",
+      "name": "Đỏ III Tỉ lệ chí mạng",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0d0c5eafd9c5a7eefb99d8ad26ca97755dbaa4885c62c1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Tỷ lệ chí mạng +1.6%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "793fc00eb4ed81117f394eeb460f0caa4fb9b17990bd29b4b27095adcfbce125"
+    },
+    {
+      "external_key": "o-iii-toc-anh-ti-le-chi-mang",
+      "slug": "o-iii-toc-anh-ti-le-chi-mang",
+      "name": "Đỏ III Tốc đánh/Tỉ lệ chí mạng",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/389eff3d95b4e9437e1f68aa6f1666d25dbaa4b1981481-1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Tốc đánh +1.6% Tỷ lệ chí mạng +0.5%",
+      "attributes": {
+        "critical_chance": 1.6
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f178574191a732d6859d664a92ff4532b39a8dd5c0092bb6acd1ee0999510d58"
+    },
+    {
+      "external_key": "o-ii-cong-vat-ly-xuyen-giap",
+      "slug": "o-ii-cong-vat-ly-xuyen-giap",
+      "name": "Đỏ II Công vật lý/Xuyên giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1164871d952e7e4b059e545c3a5cf7705dbaab98e2cd31.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công vật lý +1.3 Xuyên giáp +2.3",
+      "attributes": {
+        "armor_pierce": 1.3
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7e07315bd9702ae910b4a44ba3d323c8824e9c6ec93340400bcc0633a8c38643"
+    },
+    {
+      "external_key": "o-ii-cong-vat-ly",
+      "slug": "o-ii-cong-vat-ly",
+      "name": "Đỏ II Công vật lý",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1164871d952e7e4b059e545c3a5cf7705dbaab98e2cd31.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công vật lý +2",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "d2749345a7d5c7fa86aa739e139eed202368430f5e0638c9666965a3477c2f5b"
+    },
+    {
+      "external_key": "o-ii-toc-anh-ty-le-chi-mang",
+      "slug": "o-ii-toc-anh-ty-le-chi-mang",
+      "name": "Đỏ II Tốc đánh/Tỷ lệ chí mạng",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/15206edeb5c721af4332afd8c019240d5dbaab766ce291.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Tốc đánh +1% Tỷ lệ chí mạng +0.3%",
+      "attributes": {
+        "critical_chance": 1.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ba9047fd26e60006372fd5bb9e06a31169a9191f7a7ed448de44435fd6858ffc"
+    },
+    {
+      "external_key": "o-ii-cong-phep-xuyen-giap-phep",
+      "slug": "o-ii-cong-phep-xuyen-giap-phep",
+      "name": "Đỏ II Công phép/Xuyên giáp phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ff2f1a7bdc4d928749ed857afaad6d695dbaab8b272f11.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công phép +2.6 Xuyên giáp phép +1.5%",
+      "attributes": {
+        "magic_pierce": 2.6
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ac7a2a4b0519997e574e26defeb718ee74d75df6e31996dad327b095fcbd92b6"
+    },
+    {
+      "external_key": "o-ii-cong-phep",
+      "slug": "o-ii-cong-phep",
+      "name": "Đỏ II Công phép",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/62acb603ba3bec776b7413c6b6c993915dbaacf00457a1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công phép +3.3",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f28471cebc2e6f1d0794ce69f81ffea5da385f6dab12261aaee12c7e66348f53"
+    },
+    {
+      "external_key": "o-ii-ti-le-chi-mang1",
+      "slug": "o-ii-ti-le-chi-mang1",
+      "name": "Đỏ II Tỉ lệ chí mạng1",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/15206edeb5c721af4332afd8c019240d5dbaab766ce291.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Tỷ lệ chí mạng +1%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "eca86f1246616806adaaca96dfc5e93f17ba84e2d43025aa4c2a5f3fdc010206"
+    },
+    {
+      "external_key": "o-ii-ti-le-chi-mang-sat-thuong-chi-mang",
+      "slug": "o-ii-ti-le-chi-mang-sat-thuong-chi-mang",
+      "name": "Đỏ II Tỉ lệ chí mạng/Sát thương chí mạng",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/15206edeb5c721af4332afd8c019240d5dbaab766ce291.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Tỷ lệ chí mạng +0.4% Sát thương chí mạng +2.3%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "a9062f9abc86177b3001c93f77c4bfed96439fc7dcbd579decea5bb34ad462dc"
+    },
+    {
+      "external_key": "o-ii-cong-phep-toc-anh",
+      "slug": "o-ii-cong-phep-toc-anh",
+      "name": "Đỏ II Công phép/Tốc đánh",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ff2f1a7bdc4d928749ed857afaad6d695dbaab8b272f11.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công phép +2.6 Tốc đánh +0.4%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "8e57a95cee5df879f92bb3f57023440741e4dd349b23d8b340c49c880afd3054"
+    },
+    {
+      "external_key": "o-ii-cong-vat-ly-hut-mau",
+      "slug": "o-ii-cong-vat-ly-hut-mau",
+      "name": "Đỏ II Công vật lý/Hút máu",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1164871d952e7e4b059e545c3a5cf7705dbaab98e2cd31.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Công vật lý +1.6 Hút máu +0.3%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "3e08b7bdcf4ac44c0b2e8fba65d39dc22619fadc1ccfdc900e4cc5197c527846"
+    },
+    {
+      "external_key": "o-ii-toc-anh-mau-giap",
+      "slug": "o-ii-toc-anh-mau-giap",
+      "name": "Đỏ II Tốc đánh/Máu/Giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bb1f49ec3e79c433318b9996a59f541a5dbaaaca72ab01.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "17",
+      "level": "Cấp II",
+      "description": "Tốc đánh +0.6% Máu tối đa +21.1 Giáp +1.4",
+      "attributes": {
+        "armor": 21.1,
+        "max_health": 0.6
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "4df0667416fbeae38f621b72893f19c1f3a47817f06b977ad5d6ce760d7d76da"
+    },
+    {
+      "external_key": "o-iii-toc-anh-mau-giap",
+      "slug": "o-iii-toc-anh-mau-giap",
+      "name": "Đỏ III Tốc đánh/Máu/Giáp",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/389eff3d95b4e9437e1f68aa6f1666d25dbaa4b1981481.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "18",
+      "level": "Cấp III",
+      "description": "Tốc đánh +1% Máu tối đa +33.7 Giáp +2.3",
+      "attributes": {
+        "armor": 33.7,
+        "max_health": 1.0
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "5b0ac7c970e722b8f053abe74d614bcb1c0f26c9e9601e01ebf9f120a60474ae"
+    },
+    {
+      "external_key": "o-i-toc-anh-ty-le-chi-mang",
+      "slug": "o-i-toc-anh-ty-le-chi-mang",
+      "name": "ĐỎ I TỐC ĐÁNH/TỶ LỆ CHÍ MẠNG",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2189ac4d38f5bf19fd95dd538bf964885dbbb10faabe91.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Tỷ lệ chí mạng +0.2% Tốc đánh +0.5%",
+      "attributes": {
+        "attack_speed": 0.2
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "8d2da6a678ecdd318f95570b45c1f4ca06db00474c87e9dc45d9eaaef34ced67"
+    },
+    {
+      "external_key": "o-i-ty-le-chi-mang",
+      "slug": "o-i-ty-le-chi-mang",
+      "name": "ĐỎ I TỶ LỆ CHÍ MẠNG",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/71ea217106f0e0d5d7b8a8090144ebf05dbbb0f839d761.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Tỷ lệ chí mạng +0.5%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7e9a0bf99ab7c42913bb466e63140405265d444799b502ed1ba880e11bf043ce"
+    },
+    {
+      "external_key": "o-i-cong-phep-toc-anh",
+      "slug": "o-i-cong-phep-toc-anh",
+      "name": "ĐỎ I CÔNG PHÉP/TỐC ĐÁNH",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b9fad32a6565fd4ffd011fc7273bf2435dbbb0e516d591.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công phép +1.3 Tốc đánh +0.2%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "1703a014580bc0bc071d07055631b6219e643acf0eaad3a5594a60c84956e80d"
+    },
+    {
+      "external_key": "o-i-cong-xuyen-giap-phep",
+      "slug": "o-i-cong-xuyen-giap-phep",
+      "name": "ĐỎ I CÔNG/XUYÊN GIÁP PHÉP",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3f92f5392af769c9ced85e2c92a112f25dbbb0cd414271.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công phép +1.3 Xuyên giáp phép +0.7",
+      "attributes": {
+        "magic_pierce": 1.3
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "0de86897c332171ec846f36f2b92e6f1892416d3a7c57a0a564fef91037cf514"
+    },
+    {
+      "external_key": "o-i-toc-anh-mau-giap",
+      "slug": "o-i-toc-anh-mau-giap",
+      "name": "ĐỎ I TỐC ĐÁNH/MÁU/GIÁP",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f24d07226bc2bc676d4e9a3eac7500c95dbbb0ac2b08c1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Giáp +0.7 Máu tối đa +10.1 Tốc đánh +0.3%",
+      "attributes": {
+        "max_health": 0.7
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "3c948fb2c9c3ffab445834adde71b38747a6ab1b7df364c6471aa86851c1d124"
+    },
+    {
+      "external_key": "o-i-ty-le-sat-thuong-chi-mang",
+      "slug": "o-i-ty-le-sat-thuong-chi-mang",
+      "name": "ĐỎ I TỶ LỆ/SÁT THƯƠNG CHÍ MẠNG",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/065ab30e4804d5272643daf9140239df5dbbb0801316a1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Tỷ lệ chí mạng +0.2% Sát thương chí mạng +1.1%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "19fa5831636fec76a020ecf458d65f5e36aa9e52da701fd382b0664eeb40da4f"
+    },
+    {
+      "external_key": "o-i-cong-vat-ly-hut-mau",
+      "slug": "o-i-cong-vat-ly-hut-mau",
+      "name": "ĐỎ I CÔNG VẬT LÝ/HÚT MÁU",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/bd5b47618fcd7aa8f24175a8284c2b4c5dbbb00ec523b1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công vật lý +0.8 Hút máu +0.2%",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "19166f0c8f25d2a6ad93d471f493d6a81817b90caa6be20dd0702272748f1106"
+    },
+    {
+      "external_key": "o-i-cong-vat-ly-xuyen-giap",
+      "slug": "o-i-cong-vat-ly-xuyen-giap",
+      "name": "ĐỎ I CÔNG VẬT LÝ/XUYÊN GIÁP",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4835526a3b99375d36a9230d65d2c2985dbbaff7e94a21.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công vật lý +0.6 Xuyên giáp +1.1",
+      "attributes": {
+        "armor_pierce": 0.6
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "c44bea15c3e106c78a7f79f825238b11e9c9f6e455072ac7f7199d8899141565"
+    },
+    {
+      "external_key": "o-i-cong-vat-ly",
+      "slug": "o-i-cong-vat-ly",
+      "name": "ĐỎ I CÔNG VẬT LÝ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ed83b200a3d5c57b6c34318ce4cc5c1b5dbbafdca47531.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công vật lý +1",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e98569683a91bf2999e934ab9c1c88f80e7a411f54ec58cf69d26b4848900e13"
+    },
+    {
+      "external_key": "o-i-cong-phep",
+      "slug": "o-i-cong-phep",
+      "name": "ĐỎ I CÔNG PHÉP",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b062349bdf3af87ee18756d9fcbbe7215dbbafc521cdd1.png",
+      "category_id": "13",
+      "category": "Đỏ",
+      "level_id": "16",
+      "level": "Cấp I",
+      "description": "Công phép +1.6",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/bang-ngoc/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "160a54e110d61bc365098ce802bb4099d1faf69c22851b6eec622b1ee69a97a9"
+    }
+  ],
+  "talents": [
+    {
+      "external_key": "suy-nhuoc",
+      "slug": "suy-nhuoc",
+      "name": "SUY NHƯỢC",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2025/01/suy-nhuoc.png",
+      "category": "Phụ trợ",
+      "level": null,
+      "description": "90 giây hồi chiêu: Giảm 20% sát thương của kẻ địch lân cận gây ra đồng thời tăng 20% miễn thương cho bản thân trong 4 giây.",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "4d1d539486752fc7aa4c259d2a5a6d9a7cbfcb0663d79f3464c875931818fe9c"
+    },
+    {
+      "external_key": "toc-bien",
+      "slug": "toc-bien",
+      "name": "TỐC BIẾN",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2d41ed133babae2334cb5233638e2641583ec26ce508f1.png",
+      "category": "Phụ trợ",
+      "level": null,
+      "description": "120 hồi chiêu: dịch chuyển trong 1 khoảng cách nhất định theo 1 hướng cụ thể",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e94d320e5e5a5c934fa0929aeee6cf751a914a13affbfc8b1bb1f9b4886b7a36"
+    },
+    {
+      "external_key": "thanh-tay",
+      "slug": "thanh-tay",
+      "name": "THANH TẨY",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4de38676e937df626d8625ba1a33cbda583ec235e29471.png",
+      "category": "Phụ trợ",
+      "level": null,
+      "description": "120 giây hồi chiêu: hóa giải tất cả hiệu ứng bất lợi và khống chế, đồng thời miễn dịch với khống chế trong 1.5 giây",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "9686abd4c60c5cf219d513d986d9f3729c2d8b7aa10a7cebe496c55a2e5fd0db"
+    },
+    {
+      "external_key": "ngat-ngu",
+      "slug": "ngat-ngu",
+      "name": "NGẤT NGƯ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1c36aaa1eca62d155428fce070031ad1583ec20f05ffc1.png",
+      "category": "Phụ trợ",
+      "level": null,
+      "description": "90 giây hồi chiêu: làm choáng kẻ địch lân cận và làm chậm đồng thời giảm giao và giáp phép của chúng trong một khoảng thời gian",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ff9e0977f62bf4ad33165258fab87121d02accdccd535a71e361976d9c167314"
+    },
+    {
+      "external_key": "cap-cuu",
+      "slug": "cap-cuu",
+      "name": "CẤP CỨU",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/aa3e3334f3d9e532a68f60e436be30cd583ec1cfbb5ff1.png",
+      "category": "Phụ trợ",
+      "level": null,
+      "description": "120 giây hồi chiêu: hồi 15% máu cho bản thân và những đồng minh xung quanh, đồng thời tăng 15% tốc chạy cho cả nhóm trong 2 giây",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "4fb8dfd338cdd0bdcde08c836edf820bc7a992d2d3b9f35a4e15a47d797c0403"
+    },
+    {
+      "external_key": "gam-thet",
+      "slug": "gam-thet",
+      "name": "GẦM THÉT",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2b16ae85950d367b7a60d8481a381118583ec1a8456911.png",
+      "category": "Phụ trợ",
+      "level": null,
+      "description": "60 giây hồi chiêu: Tăng 15% kháng hiệu ứng, 10% sát thương và 15% hút máu, 30% hút máu phép, kéo dài 7 giây",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "a994a1c3756fffcf5f8e44e301fb2478b9e4120a29dc78378c27750382110b54"
+    },
+    {
+      "external_key": "trung-tri",
+      "slug": "trung-tri",
+      "name": "TRỪNG TRỊ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13d652f7da1ac0e05374ce62dc3e8dee583ec18be52611.png",
+      "category": "Phụ trợ",
+      "level": null,
+      "description": "30 giây hồi chiêu: Gây 800 sát thương lên quái xung quanh và làm choáng chúng trong 1 giây",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "67497e9e580ff4c6699983caf608f93d2c9d94aee4168d9b296d68cf5314dc23"
+    },
+    {
+      "external_key": "boc-pha",
+      "slug": "boc-pha",
+      "name": "BỘC PHÁ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/cc5125aca6d0af36e8e9faebc9d840d6583ec165cad261.png",
+      "category": "Phụ trợ",
+      "level": null,
+      "description": "90 giây hồi chiêu: Gây sát thương chuẩn tương đương 16% máu đã mất của kẻ địch",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "21cd297082ad048cb6516a635e3a3d345b9aea962e7a50d11b0aee6c48662539"
+    },
+    {
+      "external_key": "toc-hanh",
+      "slug": "toc-hanh",
+      "name": "TỐC HÀNH",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/05/011f068e44af36e08efb5814d395f3ee583ec145170121.png",
+      "category": "Phụ trợ",
+      "level": null,
+      "description": "Tăng tốc chạy trong một khoảng thời gian. Kích hoạt lập tức xóa trạng thái bị làm chậm đang gánh chịu và giảm hiệu ứng bị làm chậm khi đang chạy nhanh. Ngoài ra khi rời giao tranh được tăng tốc chạy",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-tro/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7c449a1e0b521d49b6232d16564b62ae79b4cd000c4e21d602a2262582b8064b"
+    }
+  ],
+  "enchantment_families": [
+    {
+      "external_key": "badge1724",
+      "slug": "thanh-khoi-nguyen",
+      "name": "Thành khởi nguyên",
+      "image_url": null,
+      "category": "Nhánh phù hiệu",
+      "level": null,
+      "description": "Thích hợp: Tất cả các dạng tướng\nCó năng lực sáng tạo và khoa học kỹ thuật bậc nhất.",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ca85dc33a87999c15f51adb1939fa78cf69cc0dc625c80f81a67eb29050dce6f"
+    },
+    {
+      "external_key": "badge1723",
+      "slug": "thap-quang-minh",
+      "name": "Tháp quang minh",
+      "image_url": null,
+      "category": "Nhánh phù hiệu",
+      "level": null,
+      "description": "Thích hợp: Xạ thủ, Pháp sư Đã trải qua Thánh quang tẩy lễ\nTương phản",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "c93dae4b57deb70048ec2585ee780adbab42c2d5a44eb84abfc2e8cc45b20063"
+    },
+    {
+      "external_key": "badge1722",
+      "slug": "vuc-hon-mang",
+      "name": "Vực hỗn mang",
+      "image_url": null,
+      "category": "Nhánh phù hiệu",
+      "level": null,
+      "description": "Thích hợp: Đấu sỹ, Sát thủ\nGồm các lĩnh chủ Vực hỗn mang",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "fc92e1874462c9543d71d56bfe4cc49ab20c3c21b6b28347a07990c4c58c8f6c"
+    },
+    {
+      "external_key": "badge1718",
+      "slug": "rung-nguyen-sinh",
+      "name": "Rừng nguyên sinh",
+      "image_url": null,
+      "category": "Nhánh phù hiệu",
+      "level": null,
+      "description": "Thích hợp: Hỗ trợ, Đỡ đòn\nĐược bảo vệ bởi sức mạnh rừng sâu",
+      "attributes": {},
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "2b667b9164e89ce882c40eaacd9d5a1a0218eba84de9ebb2da4850e3d0c5869e"
+    }
+  ],
+  "enchantments": [
+    {
+      "external_key": "badge1724-group1-skill1",
+      "slug": "qua-cau-bang-suong",
+      "name": "Quả cầu băng sương",
+      "image_url": null,
+      "category": "Thành khởi nguyên",
+      "level": "Bậc 1",
+      "description": "Sau khi trận đấu bắt đầu 4 phút, bạn sẽ nhận được Quả cầu băng sương. Sau khi sử dụng sẽ được miễn sát thương nhưng không thể công kích, di chuyển và khi kết thúc sẽ nhận được lá chắn , chỉ dùng 1 lần.",
+      "attributes": {
+        "head": "Kích hoạt Thành khởi nguyên"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "b0a1f4319517581f245ecae508666dee4ba2e7c8b14c1d5dfb53e46b4fc3d07a"
+    },
+    {
+      "external_key": "badge1724-group1-skill2",
+      "slug": "sieu-hoi-mau",
+      "name": "Siêu hồi máu",
+      "image_url": null,
+      "category": "Thành khởi nguyên",
+      "level": "Bậc 1",
+      "description": "Đổi Hồi máu thành Siêu hồi máu, giúp hồi nhiều máu và năng lượng hơn.",
+      "attributes": {
+        "head": "Bảo mệnh Thành khởi nguyên"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "d49b8dbdd4b9a2eee37ed6745688d8ec3fe7be264e66602d27f42a96c429b4fa"
+    },
+    {
+      "external_key": "badge1724-group1-skill3",
+      "slug": "mat-ngu",
+      "name": "Mật ngữ",
+      "image_url": null,
+      "category": "Thành khởi nguyên",
+      "level": "Bậc 1",
+      "description": "Phụ trợ giảm hồi chiêu.",
+      "attributes": {
+        "head": "Giảm hồi chiêu Thành khởi nguyên"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7ce77194e143a8caa549da2481a9efbf84b936ed5acc6736672e347145389698"
+    },
+    {
+      "external_key": "badge1724-group2-skill1",
+      "slug": "uy-ap",
+      "name": "Uy áp",
+      "image_url": null,
+      "category": "Thành khởi nguyên",
+      "level": "Bậc 2",
+      "description": "Sau khi tung chiêu hoặc đòn đánh thường vào lính, lính sẽ bị diệt.",
+      "attributes": {
+        "head": "Dọn lính Thành khởi nguyên"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "bfea1a4992717b7a24d64a08d8c3906e6fd33c0f48718372b73d669603c9709c"
+    },
+    {
+      "external_key": "badge1724-group2-skill2",
+      "slug": "tho-san",
+      "name": "Thợ săn",
+      "image_url": null,
+      "category": "Thành khởi nguyên",
+      "level": "Bậc 2",
+      "description": "Mỗi lần hạ hoặc phụ hạ tướng địch sẽ nhận cộng dồn vật lý và công phép.",
+      "attributes": {
+        "head": "Hạ giúp tăng sát thương Thành khởi nguyên"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "23e7f546c1133eb569b3788037dd540d0c299137f0f6a7f1c64836b23bd062bc"
+    },
+    {
+      "external_key": "badge1724-group3-skill1",
+      "slug": "chuyen-sinh",
+      "name": "Chuyển sinh",
+      "image_url": null,
+      "category": "Thành khởi nguyên",
+      "level": "Bậc 3",
+      "description": "Sau khi tử vong sẽ nhận được phù hiệu “Hồi sinh”. Sau khi sử dụng sẽ giúp hồi sinh trong tế đàn. Thời gian hồi chiêu của “Hồi sinh” mỗi lần sẽ tăng lên.",
+      "attributes": {
+        "head": "Đầu thai Thành khởi nguyên"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "5d2019eae4ddd36929641a5c850de4d670bdaabf91f0728416583b7909a79f80"
+    },
+    {
+      "external_key": "badge1724-group3-skill2",
+      "slug": "luyen-kim",
+      "name": "Luyện kim",
+      "image_url": null,
+      "category": "Thành khởi nguyên",
+      "level": "Bậc 3",
+      "description": "Chiêu/Đánh thường trúng tướng địch hoặc trụ sẽ được nhân thêm vàng, liên tiếp đánh trúng sẽ nhận thêm lợi ích.",
+      "attributes": {
+        "head": "Phát triển Thành khởi nguyên"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "9f6cc339416d95d27312a3b983f7c42834ef9c223c536a85e956c08ced20deae"
+    },
+    {
+      "external_key": "badge1723-group1-skill1",
+      "slug": "tuong-phan",
+      "name": "Tương phản",
+      "image_url": null,
+      "category": "Tháp quang minh",
+      "level": "Bậc 1",
+      "description": "Sát thương gây ra cho tướng địch được tăng nhưng sát thương phải chịu cũng tăng lên.",
+      "attributes": {
+        "head": "Hồi chiêu Tháp quang minh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f152e91bace6e3cc841d3b68cbe9792a667060206bff80aaf83352d8dc9af2b9"
+    },
+    {
+      "external_key": "badge1723-group1-skill2",
+      "slug": "sung-man",
+      "name": "Sung mãn",
+      "image_url": null,
+      "category": "Tháp quang minh",
+      "level": "Bậc 1",
+      "description": "Tung chiêu hoặc đánh thường trúng tướng địch sẽ được hồi tỷ lệ năng lượng tối đa.",
+      "attributes": {
+        "head": "Hồi năng lượng Tháp quang minh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e61abffa371688e78328ea93cc25d5727edfefc1acd4fd08604124128866d802"
+    },
+    {
+      "external_key": "badge1723-group1-skill3",
+      "slug": "thanh-chau",
+      "name": "Thánh châu",
+      "image_url": null,
+      "category": "Tháp quang minh",
+      "level": "Bậc 1",
+      "description": "Chiêu cuối được giảm thời gian hồi chiêu thêm 10% (nhưng không được vượt quá 40% tối đa)",
+      "attributes": {
+        "head": "Tăng sát thương Tháp quang minh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "fd53e1a2124dccbfd8b776215c9edee57fd56bfde01f173befcf8d1e5bd0b141"
+    },
+    {
+      "external_key": "badge1723-group2-skill1",
+      "slug": "xuyen-tam",
+      "name": "Xuyên tâm",
+      "image_url": null,
+      "category": "Tháp quang minh",
+      "level": "Bậc 2",
+      "description": "Nhận thêm xuyên giáp và xuyên giáp phép mỗi cấp.",
+      "attributes": {
+        "head": "Xuyên Tháp quang minh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ba4896ab6442121c558ab9a7a94b387164681c8208e02b2fdd2a2096e078df52"
+    },
+    {
+      "external_key": "badge1723-group2-skill2",
+      "slug": "bi-quyet",
+      "name": "Bí quyết",
+      "image_url": null,
+      "category": "Tháp quang minh",
+      "level": "Bậc 2",
+      "description": "Nhận được thêm chí mạng và công phép từ trang bị.",
+      "attributes": {
+        "head": "Tăng sát thương chí mạng Tháp quang minh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "2289ba4ce79427e93239dd2aa9c6168d93ee17282436824884586023d313f752"
+    },
+    {
+      "external_key": "badge1723-group3-skill1",
+      "slug": "thanh-thuan",
+      "name": "Thánh thuẫn",
+      "image_url": null,
+      "category": "Tháp quang minh",
+      "level": "Bậc 3",
+      "description": "Sau khi chịu sát thương sẽ nhận được lá chắn và hút máu phép.",
+      "attributes": {
+        "head": "Phòng ngự Tháp quang minh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "41020f88e652f4d1141beec81f13e905c7804d351411c14a4824856d38a03a12"
+    },
+    {
+      "external_key": "badge1723-group3-skill2",
+      "slug": "than-quang",
+      "name": "Thần quang",
+      "image_url": null,
+      "category": "Tháp quang minh",
+      "level": "Bậc 3",
+      "description": "Tung chiêu hoặc đánh thường lần đầu tiên trúng tướng địch sẽ tạo thành sát thương sấm sét.",
+      "attributes": {
+        "head": "Tăng sát thương Tháp quang minh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7e5ea5b63ce8e2419557983df43241e9310e9736bf6ed069277303eb9f3f0d72"
+    },
+    {
+      "external_key": "badge1723-group3-skill3",
+      "slug": "tinh-linh",
+      "name": "Tinh linh",
+      "image_url": null,
+      "category": "Tháp quang minh",
+      "level": "Bậc 3",
+      "description": "Đòn đánh thường thứ 3 liên tiếp trúng một tướng địch sẽ nhận được một vòng sát tiểu thiên thần quanh cơ thể. Tiểu thiên thần sẽ tự động công kích kẻ địch.",
+      "attributes": {
+        "head": "Tăng sát thương Tháp quang minh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "84fb77391d5c04907dd9c296fa20fc1ca2727cff2275e837fb0f445d9231a835"
+    },
+    {
+      "external_key": "badge1722-group1-skill1",
+      "slug": "ma-hoa",
+      "name": "Ma hỏa",
+      "image_url": null,
+      "category": "Vực hỗn mang",
+      "level": "Bậc 1",
+      "description": "Đánh thường và tung chiêu sẽ gây thêm sát thương lên tướng địch.",
+      "attributes": {
+        "head": "Tăng sát thương Vực hỗn mang"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "128dbf6cf3160474df5b02f3080c6089f580bcd22b1fc3b15060416e4d867415"
+    },
+    {
+      "external_key": "badge1722-group1-skill2",
+      "slug": "du-anh",
+      "name": "Dư ảnh",
+      "image_url": null,
+      "category": "Vực hỗn mang",
+      "level": "Bậc 1",
+      "description": "Mỗi khi dùng lướt sẽ nhận cộng dồn trong 2 giây, tối đa 3 cộng dồn Dư ảnh. Đòn đánh thường sau đó sẽ tiêu hao toàn bộ Dư ảnh để gây sát thương.",
+      "attributes": {
+        "head": "Lướt tăng sát thương Vực hỗn mang"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "7cbf2620c06616b9334edd89e2b3892d912348d023ea92c4124257a73ee5be7b"
+    },
+    {
+      "external_key": "badge1722-group1-skill3",
+      "slug": "hap-huyet",
+      "name": "Hấp huyết",
+      "image_url": null,
+      "category": "Vực hỗn mang",
+      "level": "Bậc 1",
+      "description": "Hạ hoặc phụ hạ sẽ được hồi máu đã mất và năng lượng.",
+      "attributes": {
+        "head": "Hồi phục Vực hỗn mang"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "abf77f0ffd7a9a198fd645f46b19a134f1a28e93e322230b0b2330f82f2f2e9f"
+    },
+    {
+      "external_key": "badge1722-group2-skill1",
+      "slug": "co-thu",
+      "name": "Cố thủ",
+      "image_url": null,
+      "category": "Vực hỗn mang",
+      "level": "Bậc 2",
+      "description": "Nhận thêm kháng hiệu ứng.",
+      "attributes": {
+        "head": "Kháng hiệu ứng Vực hỗn mang"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "291d9b6553220029c24c13cb320393f530240aa51a64f0c501b2af066e7cdf8f"
+    },
+    {
+      "external_key": "badge1722-group2-skill2",
+      "slug": "cuong-cong",
+      "name": "Cường công",
+      "image_url": null,
+      "category": "Vực hỗn mang",
+      "level": "Bậc 2",
+      "description": "Nhận thêm công vật lý và công phép.",
+      "attributes": {
+        "head": "Tăng sát thương Vực hỗn mang"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "e154f2df331af7843187b940307fbec0ee458ab8d0cbb5ab2e19bca0c4d1aa11"
+    },
+    {
+      "external_key": "badge1722-group3-skill1",
+      "slug": "ma-tinh",
+      "name": "Ma tính",
+      "image_url": null,
+      "category": "Vực hỗn mang",
+      "level": "Bậc 3",
+      "description": "Sau khi tung chiêu cuối, lập tức giảm mạnh thời gian hồi các chiêu khác. Hạ hoặc phụ hạ sẽ kéo dài thời gian hiệu ứng.",
+      "attributes": {
+        "head": "Giảm hồi chiêu Vực hỗn mang"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "dfebd86db78e0683ad8983f5595396222cfe54774f53466f7d29fe6a538b89bd"
+    },
+    {
+      "external_key": "badge1722-group3-skill2",
+      "slug": "ma-chu",
+      "name": "Ma chú",
+      "image_url": null,
+      "category": "Vực hỗn mang",
+      "level": "Bậc 3",
+      "description": "Tung chiêu hoặc đánh thường trúng tướng địch sẽ cộng dồn dấu ấn. Cộng dồn đủ 3 ấn sẽ lập tức gây sát thương phép.",
+      "attributes": {
+        "head": "Sát thương chí mạng Vực hỗn mang"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "69b397c9ac6415243bd1bb803660ea8369293271f6d41d8d95d7c1ab80c7efbf"
+    },
+    {
+      "external_key": "badge1722-group3-skill3",
+      "slug": "au-khi",
+      "name": "Đấu khí",
+      "image_url": null,
+      "category": "Vực hỗn mang",
+      "level": "Bậc 3",
+      "description": "Gây sát thương lên tướng địch sẽ cộng dồn. Đủ 10 cộng dồn sẽ kích hoạt giúp bản thân hồi máu và tăng xuyên giáp.",
+      "attributes": {
+        "head": "Sát thương kéo dài Vực hỗn mang"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "9a3a9d01a0042385c03cb40644f2838d02e68112592eb5311bf91bc21c1bfbbf"
+    },
+    {
+      "external_key": "badge1718-group1-skill1",
+      "slug": "canh-gac",
+      "name": "Canh gác",
+      "image_url": null,
+      "category": "Rừng nguyên sinh",
+      "level": "Bậc 1",
+      "description": "Khi đứng gần trụ, bản thân sẽ được nhận kháng hiệu ứng và miễn thương",
+      "attributes": {
+        "head": "Phòng ngự Rừng nguyên sinh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "f1f13d3eea93672d231de4af5535133aeefaf2bdc6207d0c164ef71d74587649"
+    },
+    {
+      "external_key": "badge1718-group1-skill2",
+      "slug": "am-kich",
+      "name": "Ám kích",
+      "image_url": null,
+      "category": "Rừng nguyên sinh",
+      "level": "Bậc 1",
+      "description": "Ở trong bụi cỏ tung đòn đánh thường sẽ cộng thêm sát thương chuẩn",
+      "attributes": {
+        "head": "Tăng sát thương Rừng nguyên sinh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ced5b41f809309bd37812eeea43a3dcaa5a47d315d837b1d42553a31c969a40e"
+    },
+    {
+      "external_key": "badge1718-group1-skill3",
+      "slug": "nhay-ben",
+      "name": "Nhạy bén",
+      "image_url": null,
+      "category": "Rừng nguyên sinh",
+      "level": "Bậc 1",
+      "description": "Sau khi tử vong sẽ nhận được phù hiệu “Hồi sinh”. Sau khi sử dụng sẽ hồi sinh trong tế đàn. “Hồi sinh” càng về sau càng tăng thêm thời gian hồi chiêu.",
+      "attributes": {
+        "head": "Chạy sông Rừng nguyên sinh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "501b946b4c9497ff140875928292eded494f08589cb08d16b0daf2d3daf280c2"
+    },
+    {
+      "external_key": "badge1718-group2-skill1",
+      "slug": "sinh-ton",
+      "name": "Sinh tồn",
+      "image_url": null,
+      "category": "Rừng nguyên sinh",
+      "level": "Bậc 2",
+      "description": "Chiêu/Đánh thường trúng tướng địch hoặc trụ sẽ được nhân thêm vàng, liên tiếp đánh trúng sẽ nhận thêm lợi ích.",
+      "attributes": {
+        "head": "Lượng máu Rừng nguyên sinh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "be6da49c69eb43ec5ac11063bacf6a710ba0ab69c7d5611d37f88f4009a67ac8"
+    },
+    {
+      "external_key": "badge1718-group2-skill2",
+      "slug": "bom-mau",
+      "name": "Bơm máu",
+      "image_url": null,
+      "category": "Rừng nguyên sinh",
+      "level": "Bậc 2",
+      "description": "Hiệu quả hồi máu và lá chắn của bản thân tăng thêm",
+      "attributes": {
+        "head": "Hồi máu Rừng nguyên sinh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "ce4c2211a8792cd1d11c6f0a8d4d4d0f0ad9f162df7ee7da1a1fb9bb085efdf1"
+    },
+    {
+      "external_key": "badge1718-group3-skill1",
+      "slug": "du-hiep",
+      "name": "Du hiệp",
+      "image_url": null,
+      "category": "Rừng nguyên sinh",
+      "level": "Bậc 3",
+      "description": "Rời khỏi giao tranh, đòn đánh thường kế tiếp sẽ giảm sát thương địch và làm chậm địch",
+      "attributes": {
+        "head": "Giao tranh Rừng nguyên sinh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "317f2c23224f98bce9dde03d99ff1a4eeec168d065f0bf616adfd38cc4bc023a"
+    },
+    {
+      "external_key": "badge1718-group3-skill2",
+      "slug": "moc-giap",
+      "name": "Mộc giáp",
+      "image_url": null,
+      "category": "Rừng nguyên sinh",
+      "level": "Bậc 3",
+      "description": "Gánh chịu sát thương sẽ cộng dồn, đủ lần sẽ gây nổ sát thương phép và hồi máu nếu đánh trúng tướng",
+      "attributes": {
+        "head": "Phòng ngự Rừng nguyên sinh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "6dc310856aad926bbca4c2f8b81895aa0a99fecee781c504acf6f37b788cb8a5"
+    },
+    {
+      "external_key": "badge1718-group3-skill3",
+      "slug": "troi-buoc",
+      "name": "Trói buộc",
+      "image_url": null,
+      "category": "Rừng nguyên sinh",
+      "level": "Bậc 3",
+      "description": "Khi tung chiêu khống chế trúng tướng địch sẽ giúp bản thân tăng giáp và giáp phép, đồng thời nhận hiệu quả thiêu đốt tính theo tỷ lệ lượng máu tối đa",
+      "attributes": {
+        "head": "Sát thương khống chế Rừng nguyên sinh"
+      },
+      "source_url": "https://lienquan.garena.vn/hoc-vien/phu-hieu/",
+      "fetched_at": "2026-10-19T07:14:12.437406+00:00",
+      "content_hash": "dab08206ba4da227dc54d71641753d24f3eb38be0016647178ddfe4c662a28c6"
+    }
+  ]
+}

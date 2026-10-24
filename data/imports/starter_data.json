@@ -1,0 +1,120 @@
+{
+  "source": {
+    "name": "Bộ dữ liệu khởi tạo do quản trị viên biên soạn",
+    "url": "https://lienquan.garena.vn/",
+    "source_type": "manual_pending_review",
+    "verified": false
+  },
+  "patch": {
+    "version": "bootstrap-2026.10",
+    "title": "Bộ dữ liệu khởi tạo - cần đối chiếu bản game hiện hành",
+    "is_current": true,
+    "source_url": "https://lienquan.garena.vn/"
+  },
+  "heroes": [
+    {
+      "slug": "thane", "name": "Thane", "image_url": null, "roles": ["Đỡ đòn"],
+      "positions": ["Trợ thủ", "Caesar"], "damage_type": "physical", "power_phase": "early", "difficulty": 3,
+      "strengths": ["Mở giao tranh", "Bảo vệ chủ lực", "Chống chịu"], "weaknesses": ["Tầm đánh ngắn", "Phụ thuộc đồng đội"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 35, "magic_damage": 12, "durability": 92, "crowd_control": 86, "mobility": 46, "engage": 92, "protection": 82, "split_push": 28, "wave_clear": 42, "objective_control": 72}
+    },
+    {
+      "slug": "alice", "name": "Alice", "image_url": null, "roles": ["Trợ thủ"],
+      "positions": ["Trợ thủ"], "damage_type": "magic", "power_phase": "late", "difficulty": 4,
+      "strengths": ["Khống chế diện rộng", "Tăng tốc đồng đội", "Bảo vệ chủ lực"], "weaknesses": ["Mỏng manh", "Cần giữ vị trí"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 10, "magic_damage": 55, "durability": 40, "crowd_control": 91, "mobility": 64, "engage": 62, "protection": 91, "split_push": 18, "wave_clear": 52, "objective_control": 66}
+    },
+    {
+      "slug": "nakroth", "name": "Nakroth", "image_url": null, "roles": ["Sát thủ"],
+      "positions": ["Rừng"], "damage_type": "physical", "power_phase": "mid", "difficulty": 9,
+      "strengths": ["Cơ động rất cao", "Đẩy lẻ", "Bắt chủ lực"], "weaknesses": ["Khó sử dụng", "Sợ khống chế cứng"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 88, "magic_damage": 5, "durability": 35, "crowd_control": 38, "mobility": 98, "engage": 67, "protection": 18, "split_push": 94, "wave_clear": 86, "objective_control": 76}
+    },
+    {
+      "slug": "keera", "name": "Keera", "image_url": null, "roles": ["Sát thủ", "Pháp sư"],
+      "positions": ["Rừng"], "damage_type": "magic", "power_phase": "mid", "difficulty": 8,
+      "strengths": ["Xuyên địa hình", "Dồn sát thương phép", "Bắt lẻ"], "weaknesses": ["Mỏng manh", "Cần chọn thời điểm"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 10, "magic_damage": 93, "durability": 34, "crowd_control": 42, "mobility": 94, "engage": 70, "protection": 16, "split_push": 72, "wave_clear": 78, "objective_control": 73}
+    },
+    {
+      "slug": "krixi", "name": "Krixi", "image_url": null, "roles": ["Pháp sư"],
+      "positions": ["Giữa"], "damage_type": "magic", "power_phase": "mid", "difficulty": 4,
+      "strengths": ["Cấu rỉa", "Hất tung diện rộng", "Dọn lính nhanh"], "weaknesses": ["Thiếu cơ động", "Dễ bị bắt lẻ"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 8, "magic_damage": 91, "durability": 28, "crowd_control": 72, "mobility": 42, "engage": 55, "protection": 30, "split_push": 28, "wave_clear": 89, "objective_control": 62}
+    },
+    {
+      "slug": "raz", "name": "Raz", "image_url": null, "roles": ["Pháp sư", "Sát thủ"],
+      "positions": ["Giữa"], "damage_type": "magic", "power_phase": "mid", "difficulty": 8,
+      "strengths": ["Cấu rỉa", "Đẩy lùi", "Dồn sát thương"], "weaknesses": ["Khó sử dụng", "Tầm dọn lính hạn chế"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 12, "magic_damage": 95, "durability": 30, "crowd_control": 70, "mobility": 83, "engage": 76, "protection": 25, "split_push": 35, "wave_clear": 68, "objective_control": 56}
+    },
+    {
+      "slug": "violet", "name": "Violet", "image_url": null, "roles": ["Xạ thủ"],
+      "positions": ["Rồng"], "damage_type": "physical", "power_phase": "late", "difficulty": 6,
+      "strengths": ["Cấu rỉa tầm xa", "Sát thương cuối trận", "Linh hoạt"], "weaknesses": ["Cần trang bị", "Sợ bị áp sát"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 94, "magic_damage": 4, "durability": 25, "crowd_control": 22, "mobility": 76, "engage": 28, "protection": 18, "split_push": 71, "wave_clear": 80, "objective_control": 78}
+    },
+    {
+      "slug": "telannas", "name": "Tel'Annas", "image_url": null, "roles": ["Xạ thủ"],
+      "positions": ["Rồng"], "damage_type": "physical", "power_phase": "late", "difficulty": 4,
+      "strengths": ["Tầm đánh xa", "Sát thương duy trì", "Khống chế tầm xa"], "weaknesses": ["Kém cơ động", "Cần được bảo vệ"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 96, "magic_damage": 6, "durability": 24, "crowd_control": 48, "mobility": 28, "engage": 30, "protection": 20, "split_push": 60, "wave_clear": 83, "objective_control": 84}
+    },
+    {
+      "slug": "omen", "name": "Omen", "image_url": null, "roles": ["Đấu sĩ"],
+      "positions": ["Caesar"], "damage_type": "physical", "power_phase": "mid", "difficulty": 6,
+      "strengths": ["Đẩy lẻ", "Khóa mục tiêu", "Đấu tay đôi"], "weaknesses": ["Giao tranh tổng hạn chế", "Tầm đánh ngắn"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 82, "magic_damage": 4, "durability": 74, "crowd_control": 68, "mobility": 58, "engage": 62, "protection": 32, "split_push": 96, "wave_clear": 82, "objective_control": 75}
+    },
+    {
+      "slug": "florentino", "name": "Florentino", "image_url": null, "roles": ["Đấu sĩ"],
+      "positions": ["Caesar"], "damage_type": "physical", "power_phase": "mid", "difficulty": 10,
+      "strengths": ["Đấu tay đôi", "Cơ động", "Sát thương chuẩn"], "weaknesses": ["Rất khó sử dụng", "Phụ thuộc kỹ năng cá nhân"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 92, "magic_damage": 2, "durability": 66, "crowd_control": 52, "mobility": 91, "engage": 72, "protection": 24, "split_push": 86, "wave_clear": 68, "objective_control": 58}
+    },
+    {
+      "slug": "maloch", "name": "Maloch", "image_url": null, "roles": ["Đấu sĩ", "Đỡ đòn"],
+      "positions": ["Caesar", "Trợ thủ"], "damage_type": "physical", "power_phase": "mid", "difficulty": 5,
+      "strengths": ["Mở giao tranh diện rộng", "Sát thương chuẩn", "Chống chịu"], "weaknesses": ["Chiêu thức chậm", "Dễ bị thả diều"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 72, "magic_damage": 5, "durability": 88, "crowd_control": 67, "mobility": 48, "engage": 94, "protection": 61, "split_push": 52, "wave_clear": 70, "objective_control": 73}
+    },
+    {
+      "slug": "zip", "name": "Zip", "image_url": null, "roles": ["Trợ thủ", "Đỡ đòn"],
+      "positions": ["Trợ thủ"], "damage_type": "magic", "power_phase": "early", "difficulty": 8,
+      "strengths": ["Cứu đồng đội", "Đảo đường", "Bảo vệ chủ lực"], "weaknesses": ["Đòi hỏi phối hợp", "Khó sử dụng"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 12, "magic_damage": 38, "durability": 78, "crowd_control": 62, "mobility": 80, "engage": 65, "protection": 98, "split_push": 25, "wave_clear": 44, "objective_control": 78}
+    },
+    {
+      "slug": "zill", "name": "Zill", "image_url": null, "roles": ["Sát thủ", "Pháp sư"],
+      "positions": ["Rừng"], "damage_type": "magic", "power_phase": "mid", "difficulty": 7,
+      "strengths": ["Né sát thương", "Dồn sát thương", "Cơ động"], "weaknesses": ["Sợ khống chế", "Cần tài nguyên"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 7, "magic_damage": 90, "durability": 36, "crowd_control": 35, "mobility": 88, "engage": 74, "protection": 20, "split_push": 64, "wave_clear": 74, "objective_control": 68}
+    },
+    {
+      "slug": "liliana", "name": "Liliana", "image_url": null, "roles": ["Pháp sư"],
+      "positions": ["Giữa"], "damage_type": "magic", "power_phase": "late", "difficulty": 9,
+      "strengths": ["Cấu rỉa", "Cơ động", "Nhiều kỹ năng"], "weaknesses": ["Khó sử dụng", "Mỏng manh"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 12, "magic_damage": 94, "durability": 27, "crowd_control": 54, "mobility": 92, "engage": 58, "protection": 26, "split_push": 56, "wave_clear": 88, "objective_control": 60}
+    },
+    {
+      "slug": "hayate", "name": "Hayate", "image_url": null, "roles": ["Xạ thủ"],
+      "positions": ["Rồng"], "damage_type": "physical", "power_phase": "late", "difficulty": 8,
+      "strengths": ["Cơ động", "Sát thương chuẩn", "Khắc chế chống chịu"], "weaknesses": ["Cần tích nội tại", "Chiêu cuối rủi ro"], "patch_version": "bootstrap-2026.10",
+      "attributes": {"physical_damage": 92, "magic_damage": 4, "durability": 29, "crowd_control": 18, "mobility": 89, "engage": 56, "protection": 18, "split_push": 78, "wave_clear": 85, "objective_control": 80}
+    }
+  ],
+  "items": [
+    {"slug": "giay-kien-cuong", "name": "Giày Kiên Cường", "category": "di chuyển", "cost": 690, "attributes": {"magic_defense": 90}, "passive": "Tăng kháng hiệu ứng", "roles": ["Đỡ đòn", "Đấu sĩ", "Sát thủ", "Xạ thủ", "Pháp sư", "Trợ thủ"], "counters": ["khống chế", "sát thương phép"], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "giay-ho-ve", "name": "Giày Hộ Vệ", "category": "di chuyển", "cost": 700, "attributes": {"armor": 110}, "passive": "Giảm sát thương đòn đánh thường", "roles": ["Đỡ đòn", "Đấu sĩ", "Trợ thủ"], "counters": ["sát thương vật lý"], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "huan-chuong-troy", "name": "Huân Chương Troy", "category": "phòng thủ", "cost": 2320, "attributes": {"magic_defense": 360, "health": 1000}, "passive": "Tạo lá chắn phép", "roles": ["Đỡ đòn", "Đấu sĩ", "Trợ thủ"], "counters": ["sát thương phép"], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "khien-huyen-thoai", "name": "Khiên Huyền Thoại", "category": "phòng thủ", "cost": 2180, "attributes": {"armor": 360, "health": 400}, "passive": "Làm chậm tốc đánh kẻ tấn công", "roles": ["Đỡ đòn", "Đấu sĩ", "Trợ thủ"], "counters": ["sát thương vật lý", "tốc đánh"], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "giap-thong-kho", "name": "Giáp Thống Khổ", "category": "phòng thủ", "cost": 1940, "attributes": {"armor": 300, "health": 1200}, "passive": "Phản lại một phần sát thương", "roles": ["Đỡ đòn", "Đấu sĩ", "Trợ thủ"], "counters": ["sát thương vật lý"], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "sach-truy-hon", "name": "Sách Truy Hồn", "category": "phép", "cost": 2110, "attributes": {"magic_power": 200, "health": 500}, "passive": "Giảm hiệu quả hồi phục", "roles": ["Pháp sư"], "counters": ["hồi phục"], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "dao-truy-hon", "name": "Đao Truy Hồn", "category": "công", "cost": 2000, "attributes": {"attack": 100}, "passive": "Giảm hiệu quả hồi phục", "roles": ["Xạ thủ", "Đấu sĩ", "Sát thủ"], "counters": ["hồi phục"], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "thanh-kiem", "name": "Thánh Kiếm", "category": "công", "cost": 2120, "attributes": {"attack": 100}, "passive": "Tăng sát thương chí mạng", "roles": ["Xạ thủ", "Sát thủ"], "counters": [], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "vuong-mien-hecate", "name": "Vương Miện Hecate", "category": "phép", "cost": 2300, "attributes": {"magic_power": 240}, "passive": "Khuếch đại công phép", "roles": ["Pháp sư"], "counters": [], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "giap-ho-menh", "name": "Giáp Hộ Mệnh", "category": "phòng thủ", "cost": 2400, "attributes": {"armor": 120}, "passive": "Hồi sinh sau khi bị hạ", "roles": ["Xạ thủ", "Sát thủ", "Đấu sĩ", "Pháp sư"], "counters": ["dồn sát thương"], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "khien-that-truyen", "name": "Khiên Thất Truyền", "category": "phòng thủ", "cost": 2100, "attributes": {"armor": 275, "health": 1200}, "passive": "Giảm tốc đánh kẻ địch lân cận", "roles": ["Đỡ đòn", "Đấu sĩ", "Trợ thủ"], "counters": ["tốc đánh"], "patch_version": "bootstrap-2026.10", "is_active": true},
+    {"slug": "truong-bung-no", "name": "Trượng Bùng Nổ", "category": "phép", "cost": 2000, "attributes": {"magic_power": 240}, "passive": "Gây thêm sát thương diện rộng", "roles": ["Pháp sư"], "counters": [], "patch_version": "bootstrap-2026.10", "is_active": true}
+  ]
+}
